@@ -18,3 +18,19 @@
 footer {
     display: none;   
 }
+
+.language-plaintext {
+    background-color: #F0F0F0;
+    color: black;
+    text-shadow: none;
+    padding: 1px;
+}
+
+.language-mnesiostag {
+    border-radius: 10px;
+    background-color: blue;
+    color: white;
+    padding-left: 2px;
+    padding-right: 2px;
+    font-size: 75%;
+}
