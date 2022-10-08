@@ -23,7 +23,7 @@ Wikipédia a une [page dédiée aux cartes d'apprentissage](https://fr.wikipedia
 Vous pouvez **sélectionner des choses à apprendre parmi la base de données des cartes disponibles**.
 La recherche se fait dans le menu [Cartes/Parcourir](https://www.Mnesios.com/Search/Index).  
 Dépliez la zone des critères de sélection par le menu à trois points <i class="fa fa-ellipsis-v"></i>.  
-Par exemple, si voulez apprendre à identifier les régions françaises, spécifiez comme [label](https://www.Mnesios.com/Tags/Index) requis `Régions françaises`.  
+Par exemple, si voulez apprendre à identifier les régions françaises, spécifiez comme [label](https://www.Mnesios.com/Tags/Index) requis `Régions françaises`{:.mnesiostag}.  
 Un autre critère de sélection particulièrement intéressant est l'[évaluation moyenne des utilisateurs](https://www.Mnesios.com/Doc/MdRenderer?refererRoute=%2FLearn%2FIndex&cultureName=fr) (qui va de une à cinq étoiles).  
 Dans la liste, vous pouvez cocher des cartes (cases à gauche), puis les ajouter à votre paquet en utilisant le bouton en forme de paquet en haut à gauche <i class="fa fa-inbox"></i>.  
 Pour en savoir plus sur la recherche de cartes, lisez la [documentation spécifique](https://www.Mnesios.com/Doc/MdRenderer?refererRoute=%2FSearch%2FIndex&cultureName=fr).
