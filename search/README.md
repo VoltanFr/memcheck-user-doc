@@ -21,3 +21,8 @@ En effet, ça n'aurait pas de sens de vouloir déplacer des cartes vers un tas s
 ## Ouverture dans des nouveaux onglets
 
 Cette fonctionnalité nécessite que vous autorisiez les _fenêtres popup_ dans votre navigateur.
+
+
+[Retour à la page d'accueil de la documentation](/)
+
+[Mnesios](https://www.mnesios.com/)
