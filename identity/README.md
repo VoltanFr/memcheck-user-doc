@@ -13,3 +13,8 @@ En pratique...
 - Votre adresse de courrier électronique sera oubliée.
 - Votre compte sera verrouillé définitivement.
 - Vous serez déconnecté (et ne pourrez donc plus utiliser ce compte).
+
+
+[Retour à la page d'accueil de la documentation](/)
+
+[Mnesios](https://www.mnesios.com/)
