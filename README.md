@@ -34,6 +34,7 @@ Pour en savoir plus sur la création et la modification de cartes, lisez la [doc
 
 ## L'apprentissage
 
+
 Votre sélection de cartes s'appelle un [paquet de cartes](https://www.Mnesios.com/Decks/Index). Dans un paquet, les cartes sont réparties par **tas** selon l'état de vos connaissances.  
 Lorsque vous ajoutez une carte dans votre paquet, elle est dans le tas nommé _cartes non apprises_.  
 Lorsque vous apprenez une carte, si vous indiquez que vous connaissiez la réponse, la carte est déplacée dans le tas supérieur, et si vous aviez faux, la carte est remise dans le tas des non apprises.  
@@ -47,3 +48,8 @@ Mnesios est une solution coopérative : les cartes publiques peuvent être modif
 Pas de panique : quand quelqu'un modifie une carte, il s'agit d'une nouvelle version et l'historique des versions est conservé, permettant de ne pas perdre d'information. Si un utilisateur malveillant dégrade une carte, on peut restorer la verion précédente.  
 Vous pouvez [suivre des cartes](/following), et recevoir des notifications quand elles sont modifiées.  
 Le logiciel Mnesios lui-même est ouvert, vous pouvez consulter son code source ou apporter des améliorations sur la [page dédiée du site GitHub](https://github.com/VoltanFr/memcheck).
+
+
+[Retour à la page d'accueil de la documentation](/)
+
+[Mnesios](https://www.mnesios.com/)
