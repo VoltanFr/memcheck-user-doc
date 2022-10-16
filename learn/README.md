@@ -10,3 +10,8 @@ Voici une suggestion de critères d'évaluation...
 - Trois étoiles : la question et la réponse sont correctes sur le fond, et précises. La carte mérite d'être améliorée sur la forme, ou de recevoir des informations dans la section _Infos supplémentaires_.
 - Quatre étoiles : la carte est riche, il ne manque pas grand chose pour qu'elle soit parfaite (par exemple des détails de forme).
 - Cinq étoiles : la carte est à peu près parfaite, avec le bon niveau d'informations supplémentaires, et une rédaction de qualitée.
+
+
+[Retour à la page d'accueil de la documentation](/)
+
+[Mnesios](https://www.mnesios.com/)
