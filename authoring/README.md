@@ -14,3 +14,8 @@ Vous choisissez le niveau de visibilité des cartes que vous créez : _stricteme
 Une ou des référence(s) de qualité.
 
 Mon habitude est de commencer par créer une carte en privé, puis la rendre publique après quelques jours de recul
+
+
+[Retour à la page d'accueil de la documentation](/)
+
+[Mnesios](https://www.mnesios.com/)
