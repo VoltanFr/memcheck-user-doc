@@ -8,7 +8,7 @@ Wikipédia a une [page dédiée aux cartes d'apprentissage](https://fr.wikipedia
 
 ## Nouvel utilisateur : démarrage rapide
 
-1. Créez un compte en suivant le lien de la page d'accueil.
+1. Créez un [compte utilisateur](/account) en suivant le lien de la page d'accueil ou en cliquant [ici](https://www.mnesios.com/Identity/Account/Register).
 1. Ouvrez la [page de recherche de cartes](/search) (menu `Cartes`/`Parcourir`).
 1. Choisissez des critères de sélection, par exemple un [label](/tags) ou une [évaluation moyenne](/rating).
 1. Lancez la recherche avec le bouton `Exécuter`.
@@ -42,6 +42,10 @@ Chaque tas a sa période d'expiration, dont la formule est deux élevé à la pu
 Un aspect majeur de l'auto-apprentissage est que **vous** indiquez si vous connaissiez la réponse, à votre guise. Par exemple, si une fiche de la catégorie `Science physique`{:.mnesiostag} vous demande [la densité de l'or](https://www.Mnesios.com/Authoring?CardId=534b3214-5880-47a0-d8f0-08d7eba1e1a5), c'est vous qui validez ou non votre réponse selon la précision que vous souhaitez avoir : vous pouvez considérer que "environ 20" est une réponse satisfaisante, ou au contraire exiger de vous-même une précision au dixième.
 
 Pour en savoir plus sur les paquets, lisez la [documentation spécifique](/deck).
+
+## Documentation
+
+Le bouton `❓`, dans le menu de Mnesios, est un lien vers de la documentation relative au contexte de la page en cours.
 
 ## Gratuit, collaboratif, évolutif
 
