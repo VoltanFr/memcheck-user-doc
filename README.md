@@ -20,7 +20,7 @@ Wikipédia a une [page dédiée aux cartes d'apprentissage](https://fr.wikipedia
 
 ## Utilisez les cartes existantes
 
-Vous pouvez **sélectionner des choses à apprendre parmi la base de données des cartes disponibles**. Le menu `Cartes`/`Parcourir` vous amène sur la [page de recherche](https://www.Mnesios.com/Search/Index).
+Vous pouvez **sélectionner des choses à apprendre parmi la base de données des cartes disponibles**. Le menu `Cartes`/`Parcourir` vous amène sur la [page de recherche](https://www.Mnesios.com/Search/Index). De là, vous pouvez en particulier ajouter des cartes à votre paquet.
 
 Pour en savoir plus sur la recherche de cartes, lisez la [documentation spécifique](/search).
 
@@ -55,7 +55,11 @@ Pas de panique : quand quelqu'un modifie une carte, il s'agit d'une nouvelle ver
 
 Vous pouvez [suivre des cartes](/following), et recevoir des notifications quand elles sont modifiées (et même suivre une recherche).
 
-Le logiciel Mnesios lui-même est ouvert, vous pouvez consulter son code source ou apporter des améliorations sur la [page dédiée du site GitHub](https://github.com/VoltanFr/memcheck).
+Le logiciel Mnesios lui-même est ouvert, vous pouvez consulter son code source, suggérer des changements ou apporter des améliorations dans [le repository MemCheck sur GitHub](https://github.com/VoltanFr/memcheck).
+
+## Contact
+
+Vous pouvez contacter les administrateurs de l'application à l'adresse `Mnesios.Adm@gmail.com`.
 
 <br/>
 <br/>
