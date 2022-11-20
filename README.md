@@ -28,7 +28,7 @@ Pour en savoir plus sur la recherche de cartes, lisez la [documentation spécifi
 
 Il est très facile d'écrire vos propres carte : ça se passe dans la [page dédiée](https://www.mnesios.com/Authoring/Index). Vous contrôlez la visibilité des cartes que vous créez : _strictement privées_, _visibles seulement par des utilisateurs choisis_, _publiques_.
 
-Pour en savoir plus sur la création et la modification de cartes, lisez la [documentation spécifique](/Authoring).
+Pour en savoir plus sur la création et la modification de cartes, lisez la [documentation spécifique](/authoring).
 
 ## L'apprentissage
 
