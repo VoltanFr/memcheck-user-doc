@@ -41,7 +41,7 @@ Les critères de recherche vous permettent de définir comment vous souhaitez s�
 
 Le résultat de la recherche s'affiche sous forme de liste, dans laquelle vous pouvez cocher (_sélectionner_) des cartes. Quand vous avez sélectionné des cartes, les opérations suivantes deviennent possibles...
 
-### Actions relatives au paquet, par le bouton <i class="fa fa-inbox"></i>
+### Actions relatives au paquet, par le bouton <i class="fa-solid fa-inbox"></i>
 
 - **Ajouter dans votre [paquet](/deck)** si les cartes choisies n'y sont pas encore, en utilisant le menu _Ajouter à votre paquet_.
 - **Enlever de votre paquet** si les cartes choisies y sont, en utilisant le menu _Enlever votre paquet_. Cette opération ne supprime pas la carte de Mnesios, mais seulement de votre paquet.
@@ -49,7 +49,7 @@ Le résultat de la recherche s'affiche sous forme de liste, dans laquelle vous p
   Vous pouvez par exemple changer une carte de tas suite à une opération éronnée (en général lors d'un apprentissage : erreur de manipulation qui a amené une carte dans le mauvais tas).  
   Une autre motivation possible est quand vous voulez éloigner les dates de répétition de cartes connexes ([des cartes ajoutées en même temps dans un paquet tendent à vous être présentées en même temps](/heaping#l-algorithme-de-montée-dans-les-tas)).
 
-### Actions sur les cartes, par le bouton <i class="fas fa-ellipsis-h"></i>
+### Actions sur les cartes, par le bouton <i class="fa-solid fa-ellipsis"></i>
 
 - **Vous abonner aux notifications** ou vous **désabonner** pour les cartes sélectionnées, afin d'être prévenu par mail lors de modifications des cartes. Voir la [page dédiée](/followingcards) pour plus d'informations.
 - **Supprimer les cartes** de Mnesios : à ne pas confondre avec l'opération qui consiste à l'enlever d'un paquet. Il s'agit ici de supprimer complètement une carte de Mnesios, elle ne sera plus accessible par aucun utilisateur. Cette suppression n'est possible que si :
@@ -57,7 +57,7 @@ Le résultat de la recherche s'affiche sous forme de liste, dans laquelle vous p
   - personne d'autre que vous n'est auteur d'une version de la carte.
 - **Ouvrir dans des onglets** sert à afficher la page d'édition de chaque carte sélectionnée dans un nouvel onglet de votre navigateur, ce qui est pratique quand vous voulez modifier plusieurs cartes. Cette fonctionnalité nécessite que vous autorisiez les _fenêtres popup_ pour le site Mnesios dans votre navigateur.
 
-### Ajout de label, par le bouton <i class="fas fa-tags"></i>
+### Ajout de label, par le bouton <i class="fa-solid fa-tags"></i>
 
 Cette fonctionnalité vous permet d'ajouter un label sur toutes les cartes sélectionnées (les cartes qui ont déjà le label sont ignorées).
 
