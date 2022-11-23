@@ -5,9 +5,9 @@
 Pour l'utiliser :
 
 - accédez aux filtres (ou cachez-les) grâce au bouton **&#x22EE;** en haut ;
-- faites votre choix de filtrage (cf ci-dessous, _filtrage_) ;
+- faites votre choix de filtrage (cf ci-dessous, [filtrage](filtrage--critres-de-recherche)) ;
 - lancez la recherche avec le bouton _Exécuter_ ;
-- explorez la liste obtenue et exploitez-la (cf ci-dessous, _actions disponibles_).
+- explorez la liste obtenue et exploitez-la (cf ci-dessous, [Les actions disponibles sur la liste obtenue](#les-actions-disponibles-sur-la-liste-obtenue)).
 
 ## Filtrage : critères de recherche
 
@@ -49,7 +49,7 @@ Le résultat de la recherche s'affiche sous forme de liste, dans laquelle vous p
   Vous pouvez par exemple changer une carte de tas suite à une opération éronnée (en général lors d'un apprentissage : erreur de manipulation qui a amené une carte dans le mauvais tas).  
   Une autre motivation possible est quand vous voulez éloigner les dates de répétition de cartes connexes ([des cartes ajoutées en même temps dans un paquet tendent à vous être présentées en même temps](/heaping#l-algorithme-de-montée-dans-les-tas)).
 
-### Actions sur les cartes, par le bouton &#x22EE;
+### Actions sur les cartes, par le bouton <i class="fas fa-ellipsis-h"></i>
 
 - **Vous abonner aux notifications** ou vous **désabonner** pour les cartes sélectionnées, afin d'être prévenu par mail lors de modifications des cartes. Voir la [page dédiée](/followingcards) pour plus d'informations.
 - **Supprimer les cartes** de Mnesios : à ne pas confondre avec l'opération qui consiste à l'enlever d'un paquet. Il s'agit ici de supprimer complètement une carte de Mnesios, elle ne sera plus accessible par aucun utilisateur. Cette suppression n'est possible que si :
