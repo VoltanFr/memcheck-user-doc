@@ -13,7 +13,7 @@ Wikipédia a une [page dédiée aux cartes d'apprentissage](https://fr.wikipedia
 1. Choisissez des critères de sélection, par exemple un [label](/tags) ou une [évaluation moyenne](/rating).
 1. Lancez la recherche avec le bouton `Exécuter`.
 1. Sélectionnez les cartes qui vous intéressent en cochant leurs cases.
-1. Ajoutez ces cartes à votre [paquet](/deck) en utilisant le bouton <i class="fa-solid fa-inbox"></i> et `Ajouter à votre paquet`.
+1. Ajoutez ces cartes à votre [paquet](/deck) en utilisant le bouton <i class="fas fa-inbox"></i> et `Ajouter à votre paquet`.
 1. Revenez à la [page de démarrage](https://www.Mnesios.com/) (en cliquant sur le nom _Mnesios_, en haut).
 1. Cliquez sur le lien des cartes non apprises dans la page.
 1. Carte par carte, testez vos connaissances. Quand vous connaissez une réponse, la question ne vous sera plus posée avant deux jours (et cet intervalle augmentera dans les révisions suivantes). Quand vous ne connaissez pas la réponse, la carte est remise sous le tas des cartes non apprises.

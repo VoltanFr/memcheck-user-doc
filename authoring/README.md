@@ -15,7 +15,7 @@ Une carte Mnesios a quatre faces...
 
 Vous pouvez utiliser le format [MarkDown](https://fr.wikipedia.org/wiki/Markdown) dans le texte des cartes. Par exemple, encadrez des mots avec deux étoiles pour les mettre en gras, ou avec le caractère souligné pour les mettre en italique. MarkDown est un format standard très répandu, dont vous trouverez par exemple une documentation [ici](https://github.com/luong-komorebi/Markdown-Tutorial/blob/master/README_fr.md).
 
-La barre de boutons en haut de la face offre différent services pratiques pour modifier votre texte, et le bouton <i class="fa-brands fa-markdown"></i> vous permet de visualiser la version finalisée de votre texte.
+La barre de boutons en haut de la face offre différent services pratiques pour modifier votre texte, et le bouton <i class="fab fa-markdown"></i> vous permet de visualiser la version finalisée de votre texte.
 
 Au moment de l'enregistrement, Mnesios supprime les caractères invisibles (espaces, lignes vides) au début et à la fin des textes des faces.
 
@@ -73,7 +73,7 @@ La case à cocher _Ajouter à votre paquet_ a pour effet, comme son nom l'indiqu
 Vous pouvez ouvrir une carte Mnesios pour modification depuis deux endroits : la [page d'apprentissage](/learn) et la [page de recherche](/search). Cette même page de création de carte est alors ouverte mais en mode édition ([exemple](https://www.mnesios.com/Authoring?CardId=a862f9b0-4ed9-4be0-d267-08d7ebb03fda)), et trois fonctionnalités supplémentaires vous y sont offertes...
 
 - **Le bouton 🛈** vous donne accès à des informations générales sur la carte.
-- **Le bouton <i class="fa-solid fa-clock-rotate-left"></i>** permet d'ouvrir l'historique de la carte, et de voir des informations sur les versions. En effet, dans Mnesios toutes les opérations sur les cartes sont historisées, ce qui permet de tracer les évolutions et si nécessaire de revenir en arrière.
+- **Le bouton <i class="fas fa-history"></i>** permet d'ouvrir l'historique de la carte, et de voir des informations sur les versions. En effet, dans Mnesios toutes les opérations sur les cartes sont historisées, ce qui permet de tracer les évolutions et si nécessaire de revenir en arrière.
 - **Le bouton d'évaluation** vous montre votre [évaluation](/rating) de la carte, vous permet de la modifier, et indique aussi l'évaluation moyenne par les utilisateurs.
 
 ## Conseils pour une bonne carte publique
