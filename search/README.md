@@ -5,7 +5,7 @@
 Pour l'utiliser :
 
 - accédez aux filtres (ou cachez-les) grâce au bouton **&#x22EE;** en haut ;
-- faites votre choix de filtrage (cf ci-dessous, [filtrage](filtrage--critres-de-recherche)) ;
+- faites votre choix de filtrage (cf ci-dessous, [Filtrage : critères de recherche](#filtrage--critres-de-recherche)) ;
 - lancez la recherche avec le bouton _Exécuter_ ;
 - explorez la liste obtenue et exploitez-la (cf ci-dessous, [Les actions disponibles sur la liste obtenue](#les-actions-disponibles-sur-la-liste-obtenue)).
 
