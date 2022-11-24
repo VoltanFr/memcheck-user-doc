@@ -1,38 +1,38 @@
 # Mnesios
 
-Mnesios ([<i class="far fa-head-side-brain"></i> https://www.mnesios.com/](https://www.Mnesios.com/)) est un logiciel d'auto-apprentissage, qui vous aide à apprendre par cœur ce que vous voulez, comme le vocabulaire d'une langue étrangère, des capitales, des dates importantes, des formules mathématiques, etc.
+Mnesios ([https://www.mnesios.com/](https://www.Mnesios.com/)&nbsp;🐘) est un logiciel d'auto-apprentissage, qui vous aide à apprendre par cœur ce que vous voulez, comme le vocabulaire d'une langue étrangère, des capitales, des dates importantes, des formules mathématiques, etc.
 
 Mnesios est basé sur le principe des cartes d'apprentissage : la face avant d'une carte indique une question, et la face arrière contient la réponse. Un apprentissage consiste à regarder la question, formuler pour soi-même une réponse, regarder la réponse, et décider si on avait bon. Et bien sûr Mnesios gère pour vous les intervalles entre les vérifications de connaissances, de façon croissante au fur et à mesure des répétitions.
 
-Wikipédia a une [<i class="far fa-external-link"></i> page dédiée aux cartes d'apprentissage](https://fr.wikipedia.org/wiki/Carte_m%C3%A9moire_(apprentissage)).
+Wikipédia a une [page dédiée aux cartes d'apprentissage](https://fr.wikipedia.org/wiki/Carte_m%C3%A9moire_(apprentissage))&nbsp;<i class="fas fa-external-link-alt"></i>.
 
 ## Nouvel utilisateur : démarrage rapide
 
-1. Créez un [compte utilisateur](/account) en suivant le lien de la page d'accueil ou en cliquant [<i class="far fa-head-side-brain"></i> ici](https://www.mnesios.com/Identity/Account/Register).
+1. Créez un [compte utilisateur](/account) en suivant le lien de la page d'accueil ou en cliquant [ici](https://www.mnesios.com/Identity/Account/Register)&nbsp;🐘.
 1. Ouvrez la [page de recherche de cartes](/search) (menu `Cartes`/`Parcourir`).
 1. Choisissez des critères de sélection, par exemple un [label](/tags) ou une [évaluation moyenne](/rating).
 1. Lancez la recherche avec le bouton `Exécuter`.
 1. Sélectionnez les cartes qui vous intéressent en cochant leurs cases.
 1. Ajoutez ces cartes à votre [paquet](/deck) en utilisant le bouton <i class="fas fa-inbox"></i> et `Ajouter à votre paquet`.
-1. Revenez à la [<i class="far fa-head-side-brain"></i> page de démarrage](https://www.Mnesios.com/) (en cliquant sur le nom _Mnesios_, en haut).
+1. Revenez à la [page de démarrage](https://www.Mnesios.com/)&nbsp;🐘 (en cliquant sur le nom _Mnesios_, en haut).
 1. Dans la page de démarrage, cliquez sur le lien des cartes non apprises : vous arrivez dans [l'apprentissage](/learn).
 1. Carte par carte, testez vos connaissances. Quand vous connaissez une réponse, la question ne vous sera plus posée avant deux jours (et cet intervalle augmentera dans les révisions suivantes). Quand vous ne connaissez pas la réponse, la carte est remise sous le tas des cartes non apprises.
 
 ## Utilisez les cartes existantes
 
-Vous pouvez **sélectionner des choses à apprendre parmi la base de données des cartes disponibles**. Le menu `Cartes`/`Parcourir` vous amène sur la [<i class="far fa-head-side-brain"></i> page de recherche](https://www.Mnesios.com/Search/Index). De là, vous pouvez en particulier ajouter des cartes à votre paquet.
+Vous pouvez **sélectionner des choses à apprendre parmi la base de données des cartes disponibles**. Le menu `Cartes`/`Parcourir` vous amène sur la [page de recherche](https://www.Mnesios.com/Search/Index)&nbsp;🐘. De là, vous pouvez en particulier ajouter des cartes à votre paquet.
 
 Pour en savoir plus sur la recherche de cartes, lisez la [documentation spécifique](/search).
 
 ## Créez vos cartes
 
-Il est très facile d'écrire vos propres carte : ça se passe dans la [<i class="far fa-head-side-brain"></i> page dédiée](https://www.mnesios.com/Authoring/Index). Vous contrôlez la visibilité des cartes que vous créez : _strictement privées_, _visibles seulement par des utilisateurs choisis_, _publiques_.
+Il est très facile d'écrire vos propres carte : ça se passe dans la [page dédiée](https://www.mnesios.com/Authoring/Index)&nbsp;🐘. Vous contrôlez la visibilité des cartes que vous créez : _strictement privées_, _visibles seulement par des utilisateurs choisis_, _publiques_.
 
 Pour en savoir plus sur la création et la modification de cartes, lisez la [documentation spécifique](/authoring).
 
 ## L'apprentissage
 
-Votre sélection de cartes s'appelle un **[<i class="far fa-head-side-brain"></i> paquet de cartes](https://www.Mnesios.com/Decks/Index)**. Dans un paquet, les cartes sont réparties par **tas** selon l'état de vos connaissances.
+Votre sélection de cartes s'appelle un **[paquet de cartes](https://www.Mnesios.com/Decks/Index)**&nbsp;🐘. Dans un paquet, les cartes sont réparties par **tas** selon l'état de vos connaissances.
 Lorsque vous ajoutez une carte dans votre paquet, elle est dans le tas nommé _cartes non apprises_.
 
 Lorsque vous apprenez une carte, si vous indiquez que vous connaissiez la réponse, la carte est déplacée dans le tas supérieur, et si vous aviez faux, la carte est remise dans le tas des non apprises.
@@ -55,7 +55,7 @@ Pas de panique : quand quelqu'un modifie une carte, il s'agit d'une nouvelle ver
 
 Vous pouvez [suivre des cartes](/following), et recevoir des notifications quand elles sont modifiées (et même suivre une recherche).
 
-Le logiciel Mnesios lui-même est ouvert, vous pouvez consulter son code source, suggérer des changements ou apporter des améliorations dans [le repository MemCheck sur GitHub](<i class="far fa-external-link"></i> https://github.com/VoltanFr/memcheck).
+Le logiciel Mnesios lui-même est ouvert, vous pouvez consulter son code source, suggérer des changements ou apporter des améliorations dans [le repository MemCheck sur GitHub](https://github.com/VoltanFr/memcheck)&nbsp;<i class="fas fa-external-link-alt"></i>.
 
 ## Contact
 

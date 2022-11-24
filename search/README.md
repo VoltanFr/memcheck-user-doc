@@ -1,6 +1,6 @@
 ﻿# La page de parcours des cartes
 
-La [<i class="far fa-head-side-brain"></i> page de parcours des cartes](https://www.mnesios.com/Search/Index), aussi appelée _Page de recherche de cartes_, vous permet de parcourir la base de données des cartes. C'est une page majeure, puisque c'est ici que vous pourrez trouver les cartes qui vous intéressent, que ce soit parmi les cartes publiques ou parmi vos cartes privées.
+La [page de parcours des cartes](https://www.mnesios.com/Search/Index)&nbsp;🐘, aussi appelée _Page de recherche de cartes_, vous permet de parcourir la base de données des cartes. C'est une page majeure, puisque c'est ici que vous pourrez trouver les cartes qui vous intéressent, que ce soit parmi les cartes publiques ou parmi vos cartes privées.
 
 Pour l'utiliser :
 
@@ -81,4 +81,4 @@ Vous configurez l'envoi de mails par Mnesios dans la [page de gestion de votre c
 
 [Retour à la page d'accueil de la documentation](/)
 
-[<i class="far fa-head-side-brain"></i> Mnesios](https://www.mnesios.com/)
+[Mnesios](https://www.mnesios.com/)&nbsp;🐘
