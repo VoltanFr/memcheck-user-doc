@@ -45,9 +45,7 @@ Le résultat de la recherche s'affiche sous forme de liste, dans laquelle vous p
 
 - **Ajouter dans votre [paquet](/deck)** si les cartes choisies n'y sont pas encore, en utilisant le menu _Ajouter à votre paquet_.
 - **Enlever de votre paquet** si les cartes choisies y sont, en utilisant le menu _Enlever votre paquet_. Cette opération ne supprime pas la carte de Mnesios, mais seulement de votre paquet.
-- **Changer les cartes de tas** dans votre paquet (si elles y sont), en utilisant une des options de déplacement.  
-  Vous pouvez par exemple changer une carte de tas suite à une opération éronnée (en général lors d'un apprentissage : erreur de manipulation qui a amené une carte dans le mauvais tas).  
-  Une autre motivation possible est quand vous voulez éloigner les dates de répétition de cartes connexes ([des cartes ajoutées en même temps dans un paquet tendent à vous être présentées en même temps](/heaping#l-algorithme-de-montée-dans-les-tas)).
+- **Changer les cartes de tas** (voir [Changer les cartes de tas manuellement](/deck/changer-les-cartes-de-tas-manuellement)).
 
 ### Actions sur les cartes, par le bouton <i class="fas fa-ellipsis-h"></i>
 
