@@ -50,9 +50,9 @@ C'est ici que vous pouvez catégoriser les cartes en leur attachant un ou des [l
 
 Vous pouvez en particulier labelliser les cartes privées avec [le label Perso](/tags/#le-label-perso).
 
-## La section _Utilisateurs_ : visibilité des cartes
+## Visibilité des cartes
 
-Vous choisissez la liste des utilisateurs qui ont accès aux cartes...
+La section _Utilisateurs_ de la page vous permet de choisir la liste des utilisateurs qui ont accès aux cartes...
 
 - Par défaut lors de la création d'une carte, vous seul pouvez la voir : elle est alors dite _strictement privée_. Les autres utilisateurs ne peuvent même pas savoir qu'elle existe. Vous pouvez donc l'utiliser comme vous voulez, vous n'avez pas besoin de respecter un certain style, etc. Nous vous recommandons pour l'instant de ne pas mettre dans Mnesios d'informations confidentielles sensibles, même dans des cartes strictement privées (en attendant que l'application ait été validée par un audit de sécurité tiers).
 - En cliquant sur les étiquettes de noms d'utilitateurs vous les supprimez. Si vous les supprimez tous, la carte devient _publique_, c'est-à-dire accessible à tout utilisateur de Mnesios (même sans compte). Les autres utilisateurs peuvent alors l'ajouter dans leur paquet, ou la modifier (cf ci-dessous, [Modification](#modification)).
