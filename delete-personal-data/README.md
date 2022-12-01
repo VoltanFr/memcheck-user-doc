@@ -7,7 +7,7 @@ En pratique...
 - Vos [paquets](/deck) seront supprimés.
 - Les [évaluations](/rating) que vous avez données à des cartes seront effacées.
 - Vos [abonnements](/following) à des cartes ou à des recherches seront résiliés.
-- Vos [cartes privées](/authoring#Visibilit-des-cartes) (visibles par vous seul) seront supprimées de la base de données.
+- Vos [cartes privées](/authoring#visibilit-des-cartes) (visibles par vous seul) seront supprimées de la base de données.
 - Votre [mot de passe](/account#mot-de-passe) sera éliminé.
 - Votre [nom d'utilisateur](/account) sera remplacé par un texte standard indiquant que le compte n'existe plus (par exemple dans l'[historique des versions de cartes](/card-history)), et ne sera donc plus visible nulle part.
 - Votre [adresse de courrier électronique](/account) sera oubliée.
