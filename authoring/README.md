@@ -36,11 +36,7 @@ Avantages d'une image stockée dans le site Mnesios :
 
 #### Les images provenant d'autres sites
 
-Les images peuvent aussi ne pas être dans la base de données de Mnesios, mais venir d'internet. Le format est alors `![Légende](URL)`. Par exemple :
-
-```md
-![Gorgonopsiens](https://upload.wikimedia.org/wikipedia/commons/2/2a/Inostrancevia_alexandri_-_MUSE.jpg)
-```
+Les images peuvent aussi ne pas être dans la base de données de Mnesios, mais venir d'internet. Le format est alors `![Légende](URL)`. Par exemple : `![Gorgonopsiens](https://upload.wikimedia.org/wikipedia/commons/2/2a/Inostrancevia_alexandri_-_MUSE.jpg)`.
 
 ## La section _Langue_
 
@@ -59,7 +55,7 @@ Vous pouvez en particulier labelliser les cartes privées avec [le label Perso](
 Vous choisissez la liste des utilisateurs qui ont accès aux cartes...
 
 - Par défaut lors de la création d'une carte, vous seul pouvez la voir : elle est alors dite _strictement privée_. Les autres utilisateurs ne peuvent même pas savoir qu'elle existe. Vous pouvez donc l'utiliser comme vous voulez, vous n'avez pas besoin de respecter un certain style, etc. Nous vous recommandons pour l'instant de ne pas mettre dans Mnesios d'informations confidentielles sensibles, même dans des cartes strictement privées (en attendant que l'application ait été validée par un audit de sécurité tiers).
-- En cliquant sur les étiquettes de noms d'utilitateurs vous les supprimez. Si vous les supprimez tous, la carte devient _publique_, c'est-à-dire accessible à tout utilisateur de Mnesios (même sans compte). Les autres utilisateurs peuvent alors l'ajouter dans leur paquet, ou la modifier (cf ci-dessous, [Historisation des versions](#historisation-des-versions)).
+- En cliquant sur les étiquettes de noms d'utilitateurs vous les supprimez. Si vous les supprimez tous, la carte devient _publique_, c'est-à-dire accessible à tout utilisateur de Mnesios (même sans compte). Les autres utilisateurs peuvent alors l'ajouter dans leur paquet, ou la modifier (cf ci-dessous, [Modification](#modification)).
 - Vous pouvez sélectionner des utilisateurs et rendre la carte visible seulement par ces utilisateurs choisis ; on appelle cela _visibilité limitée_.
 
 ⚠ Attention : lorsqu'une carte n'est pas strictement privée, si quelqu'un d'autre ajoute dans son paquet ou en crée une nouvelle version, vous ne pourrez plus la rendre privée (ce qui créerait une incohérence dans le paquet de l'autre utilisateur).
@@ -68,7 +64,7 @@ Vous choisissez la liste des utilisateurs qui ont accès aux cartes...
 
 La case à cocher _Ajouter à votre paquet_ a pour effet, comme son nom l'indique, de mettre la carte dans votre [paquet](/deck) (dans le tas des cartes non apprises).
 
-## Les fonctionnalités additionnelles dans le cas d'une modification
+## Modification
 
 Vous pouvez ouvrir une carte Mnesios pour modification depuis deux endroits : la [page d'apprentissage](/learn) et la [page de recherche](/search). Cette même page de création de carte est alors ouverte mais en mode édition ([exemple](https://www.mnesios.com/Authoring?CardId=a862f9b0-4ed9-4be0-d267-08d7ebb03fda)), et trois fonctionnalités supplémentaires vous y sont offertes...
 
@@ -78,7 +74,7 @@ Vous pouvez ouvrir une carte Mnesios pour modification depuis deux endroits : la
 
 ## Conseils pour une bonne carte publique
 
-Une bonne carte publique intéressera d'autres utilisateurs qui la mettront dans leur paquet, et la feront éventuellement évoluer. Elle aura une bonne, ce qui lui apportera une bonne visibilité parmi les utilisateurs de Mnesios. Voir les conseils sur la [page de documentation des évaluations](/rating).
+Une bonne carte publique intéressera d'autres utilisateurs qui la mettront dans leur paquet, et la feront éventuellement évoluer. Elle aura une bonne évaluation, ce qui lui apportera de la popularité parmi les utilisateurs de Mnesios. Voir les conseils sur la [page de documentation des évaluations](/rating).
 
 Il s'agit ici avant tout des cartes publiques : les cartes privées sont plus une affaire de choix personnel.
 
