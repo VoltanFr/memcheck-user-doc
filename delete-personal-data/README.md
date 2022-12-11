@@ -14,6 +14,14 @@ En pratique...
 - Votre compte sera verrouillé définitivement.
 - Vous serez immédiatement déconnecté (et ne pourrez donc plus utiliser ce compte).
 
+En revanche, vos contributions à des cartes publiques ou à visibilité limitée [ne sont pas effacées](/rules#droit-à-l'effacement), puisque ce contenu est sous [licence Creative Commons Attribution 4.0 International - CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.fr)&nbsp;<i class="fas fa-external-link-alt"></i>. Mais votre nom d'utilisateur n'y sera plus rattaché (puisque votre compte aura été anonymisé).
+
+Bien entendu, le web est indexé et historisé par de nombreux outils (eg moteurs de recherche), et même effacées des informations peuvent être retrouvées.
+
+Vous trouverez plus d'informations sur la gestion du contenu dans la page [règles d'utilisation, droit d'auteur](/rules).
+
+À noter que vous pouvez aussi télécharger votre ([contenu privé](/rules#contenu-privé)).
+
 <br/>
 <br/>
 <br/>

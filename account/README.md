@@ -12,6 +12,8 @@ Vous pouvez configurer votre compte utilisateur par la [page dédiée de Mnesios
 
 ## Vos données
 
+Voir aussi [la page Règles d'utilisation, droit d'auteur](/rules).
+
 ### Mot de passe
 
 Mnesios n'enregistre dans sa base de données qu'une version [hachée](https://fr.wikipedia.org/wiki/Fonction_de_hachage) de votre mot de passe, c'est-à-dire _non-réversible_. Personne ne pourra jamais le retrouver à partir de cette information.
