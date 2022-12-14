@@ -8,7 +8,7 @@ Wikipédia a une [page dédiée aux cartes d'apprentissage](https://fr.wikipedia
 
 ## Nouvel utilisateur : démarrage rapide
 
-1. Créez un [compte utilisateur](/account) en suivant le lien de la page d'accueil ou en cliquant [ici](https://www.mnesios.com/Identity/Account/Register)&nbsp;🐘.
+1. Créez un [compte utilisateur](/account/README.md) en suivant le lien de la page d'accueil ou en cliquant [ici](https://www.mnesios.com/Identity/Account/Register)&nbsp;🐘.
 1. Ouvrez la [page de recherche de cartes](/search) (menu `Cartes`/`Parcourir`).
 1. Choisissez des critères de sélection, par exemple un [label](/tags) ou une [évaluation moyenne](/rating).
 1. Lancez la recherche avec le bouton `Exécuter`.
