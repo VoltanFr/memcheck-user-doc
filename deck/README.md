@@ -38,4 +38,4 @@ Vous pouvez créer d'autres paquets qui seront attachés à votre compte, mais i
 
 [Retour à la page d'accueil de la documentation](/)
 
-[Mnesios](https://www.mnesios.com/)
+[Mnesios](https://www.mnesios.com/)&nbsp;🐘

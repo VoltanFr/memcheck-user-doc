@@ -18,4 +18,4 @@ Critères de qualité...
 
 [Retour à la page d'accueil de la documentation](/)
 
-[Mnesios](https://www.mnesios.com/)
+[Mnesios](https://www.mnesios.com/)&nbsp;🐘

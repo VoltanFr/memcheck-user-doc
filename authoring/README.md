@@ -1,6 +1,6 @@
 ﻿# Créer ou modifier des cartes
 
-La création de nouvelles cartes ou la modification d'une carte existante se font dans la [page dédiée de Mnesios](https://www.mnesios.com/Authoring/).
+La création de nouvelles cartes ou la modification d'une carte existante se font dans la [page dédiée de Mnesios](https://www.mnesios.com/Authoring/)&nbsp;🐘.
 
 ## Les faces
 
@@ -74,7 +74,7 @@ Vous pouvez ouvrir une carte Mnesios pour modification depuis deux endroits : la
 
 ## Conseils pour une bonne carte publique
 
-Une bonne carte publique intéressera d'autres utilisateurs qui la mettront dans leur paquet, et la feront éventuellement évoluer. Elle aura une bonne évaluation, ce qui lui apportera de la popularité parmi les utilisateurs de Mnesios. Voir les conseils sur la [page de documentation des évaluations](./rating).
+Une bonne carte publique intéressera d'autres utilisateurs qui la mettront dans leur paquet, et la feront éventuellement évoluer. Elle aura une bonne évaluation, ce qui lui apportera de la popularité parmi les utilisateurs de Mnesios. Voir les conseils sur la [page de documentation des évaluations](/rating). Mnesios est un service collaboratif, dans lequel tous les utilisateurs peuvent contribuer aux cartes, les améliorant plus ou moins rapidement selon le sujet.
 
 Il s'agit ici avant tout des cartes publiques : les cartes privées sont plus une affaire de choix personnel.
 
@@ -100,4 +100,4 @@ Voir [la page dédiée](/rules).
 
 [Retour à la page d'accueil de la documentation](/)
 
-[Mnesios](https://www.mnesios.com/)
+[Mnesios](https://www.mnesios.com/)&nbsp;🐘

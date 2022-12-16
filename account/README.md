@@ -2,7 +2,7 @@
 
 ## Profil
 
-Vous pouvez configurer votre compte utilisateur par la [page dédiée de Mnesios](https://www.mnesios.com/Identity/Account/Manage).
+Vous pouvez configurer votre compte utilisateur par la [page dédiée de Mnesios](https://www.mnesios.com/Identity/Account/Manage)&nbsp;🐘.
 
 - Votre **adresse électronique** est une information strictement privée, et n'est jamais affichée ou accessible pour quelqu'un d'autre que vous, à part les administrateurs de Mnesios. L'application Mnesios l'utilise pour vous contacter si vous vous êtes [abonné pour recevoir des notifications](/following).
 - Votre **nom d'utilisateur** est une information publique, visible par tous. Choisi au moment de votre inscription, vous ne pouvez pas le changer par la suite (c'est une [amélioration envisagée](https://github.com/VoltanFr/memcheck/issues/381)).
@@ -16,7 +16,7 @@ Voir aussi [la page Règles d'utilisation, droit d'auteur](/rules).
 
 ### Mot de passe
 
-Mnesios n'enregistre dans sa base de données qu'une version [hachée](https://fr.wikipedia.org/wiki/Fonction_de_hachage) de votre mot de passe, c'est-à-dire _non-réversible_. Personne ne pourra jamais le retrouver à partir de cette information.
+Mnesios n'enregistre dans sa base de données qu'une version [hachée](https://fr.wikipedia.org/wiki/Fonction_de_hachage)&nbsp;<i class="fas fa-external-link-alt"></i> de votre mot de passe, c'est-à-dire _non-réversible_. Personne ne pourra jamais le retrouver à partir de cette information.
 
 ### Téléchargement
 
@@ -28,7 +28,7 @@ Voir la [page dédiée](/delete-personal-data).
 
 ## Abonnements
 
-La [page de gestion des abonnements](https://www.mnesios.com/Identity/Account/Manage/Subscriptions) vous permet de lister, modifier et supprimer vos [abonnements](/following). Actuellement il ne s'agit que des _recherches_ suivies.
+La [page de gestion des abonnements](https://www.mnesios.com/Identity/Account/Manage/Subscriptions)&nbsp;🐘 vous permet de lister, modifier et supprimer vos [abonnements](/following). Actuellement il ne s'agit que des _recherches_ suivies.
 
 <br/>
 <br/>
@@ -38,4 +38,4 @@ La [page de gestion des abonnements](https://www.mnesios.com/Identity/Account/Ma
 
 [Retour à la page d'accueil de la documentation](/)
 
-[Mnesios](https://www.mnesios.com/)
+[Mnesios](https://www.mnesios.com/)&nbsp;🐘
