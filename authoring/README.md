@@ -42,7 +42,7 @@ Les images peuvent aussi ne pas être dans la base de données de Mnesios, mais 
 
 Vous pouvez ici indiquer dans quelle langue votre carte est rédigée, ce qui permettra aux utilisateurs de sélectionner des cartes dans la langue de leur choix.
 
-Pour l'instant toutes les cartes sont en français, et la [recherche](./search) avec choix de langue n'est pas encore implémentée.
+Pour l'instant toutes les cartes sont en français, et la [recherche](/search) avec choix de langue n'est pas encore implémentée.
 
 ## La section _Labels_
 
@@ -70,7 +70,7 @@ Vous pouvez ouvrir une carte Mnesios pour modification depuis deux endroits : la
 
 - **Le bouton 🛈** vous donne accès à des informations générales sur la carte.
 - **Le bouton <i class="fas fa-history"></i>** permet d'ouvrir l'historique de la carte, et de voir des informations sur les versions. En effet, dans Mnesios toutes les opérations sur les cartes sont historisées, ce qui permet de tracer les évolutions et si nécessaire de revenir en arrière.
-- **Le bouton d'évaluation** vous montre votre [évaluation](./rating) de la carte, vous permet de la modifier, et indique aussi l'évaluation moyenne par les utilisateurs.
+- **Le bouton d'évaluation** vous montre votre [évaluation](/rating) de la carte, vous permet de la modifier, et indique aussi l'évaluation moyenne par les utilisateurs.
 
 ## Conseils pour une bonne carte publique
 
