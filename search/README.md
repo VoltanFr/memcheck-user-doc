@@ -45,11 +45,11 @@ Le résultat de la recherche s'affiche sous forme de liste, dans laquelle vous p
 
 - **Ajouter dans votre [paquet](/deck)** si les cartes choisies n'y sont pas encore, en utilisant le menu _Ajouter à votre paquet_.
 - **Enlever de votre paquet** si les cartes choisies y sont, en utilisant le menu _Enlever votre paquet_. Cette opération ne supprime pas la carte de Mnesios, mais seulement de votre paquet.
-- **Changer les cartes de tas** (voir [Changer les cartes de tas manuellement](/deck/changer-les-cartes-de-tas-manuellement)).
+- **Changer les cartes de tas** (voir [Changer les cartes de tas manuellement](/deck#changer-les-cartes-de-tas-manuellement)).
 
 ### Actions sur les cartes, par le bouton <i class="fas fa-ellipsis-h"></i>
 
-- **Vous abonner aux notifications** ou vous **désabonner** pour les cartes sélectionnées, afin d'être prévenu par mail lors de modifications des cartes. Voir la [page dédiée](/followingcards) pour plus d'informations.
+- **Vous abonner aux notifications** ou vous **désabonner** pour les cartes sélectionnées, afin d'être prévenu par mail lors de modifications des cartes. Voir la [page dédiée](/following) pour plus d'informations.
 - **Supprimer les cartes** de Mnesios : à ne pas confondre avec l'opération qui consiste à l'enlever d'un paquet. Il s'agit ici de supprimer complètement une carte de Mnesios, elle ne sera plus accessible par aucun utilisateur. Cette suppression n'est possible que si :
   - personne d'autre que vous n'a la carte dans un paquet ;
   - personne d'autre que vous n'est auteur d'une version de la carte.

@@ -21,7 +21,7 @@ Ces boutons vous permettent les opérations suivantes...
 - Enlever la carte de votre [paquet](/deck).
 - Afficher des informations sur la carte.
 - Connaître la [visibilité](/authoring#visibilit-des-cartes) de la carte.
-- Affichage du [tas](/deck#les-tas) dans lequel se trouve la carte, et déplacement de la carte vers un autre tas (voir [Changer les cartes de tas manuellement](/deck/#changer-les-cartes-de-tas-manuellement)).
+- Affichage du [tas](/deck#les-tas) dans lequel se trouve la carte, et déplacement de la carte vers un autre tas (voir [Changer les cartes de tas manuellement](/deck#changer-les-cartes-de-tas-manuellement)).
 - Consulter l'[évaluation](/rating) moyenne des utilisateurs, ainsi que la votre que vous pouvez modifier.
 
 ## Autres informations
