@@ -72,6 +72,8 @@ Vous pouvez ouvrir une carte Mnesios pour modification depuis deux endroits : la
 - **Le bouton <i class="fas fa-history"></i>** permet d'ouvrir l'historique de la carte, et de voir des informations sur les versions. En effet, dans Mnesios toutes les opérations sur les cartes sont historisées, ce qui permet de tracer les évolutions et si nécessaire de revenir en arrière.
 - **Le bouton d'évaluation** vous montre votre [évaluation](/rating) de la carte, vous permet de la modifier, et indique aussi l'évaluation moyenne par les utilisateurs.
 
+Les versions précédentes des cartes modifiées sont conservées, et tout [l'historique des versions](/card-history) peut -être consulté.
+
 ## Conseils pour une bonne carte publique
 
 Une bonne carte publique intéressera d'autres utilisateurs qui la mettront dans leur paquet, et la feront éventuellement évoluer. Elle aura une bonne évaluation, ce qui lui apportera de la popularité parmi les utilisateurs de Mnesios. Voir les conseils sur la [page de documentation des évaluations](/rating). Mnesios est un service collaboratif, dans lequel tous les utilisateurs peuvent contribuer aux cartes, les améliorant plus ou moins rapidement selon le sujet.
