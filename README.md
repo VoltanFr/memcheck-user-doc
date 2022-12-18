@@ -1,6 +1,11 @@
+---
+title: Page principale
+nav_order: 1
+---
+
 # Mnesios
 
-Mnesios ([https://www.mnesios.com/](https://www.Mnesios.com/)&nbsp;🐘) est un logiciel d'auto-apprentissage, qui vous aide à apprendre par cœur ce que vous voulez, comme le vocabulaire d'une langue étrangère, des capitales, des dates importantes, des formules mathématiques, etc.
+Mnesios ([https://www.mnesios.com/](https://www.Mnesios.com/)&nbsp;🐘) est un logiciel gratuit d'auto-apprentissage, qui vous aide à apprendre par cœur ce que vous voulez, comme le vocabulaire d'une langue étrangère, des capitales, des dates importantes, des formules mathématiques, etc.
 
 Mnesios est basé sur le principe des cartes d'apprentissage : la face avant d'une carte indique une question, et la face arrière contient la réponse. Un apprentissage consiste à regarder la question, formuler pour soi-même une réponse, regarder la réponse, et décider si on avait bon. Et bien sûr Mnesios gère pour vous les intervalles entre les vérifications de connaissances, de façon croissante au fur et à mesure des répétitions.
 
@@ -49,7 +54,7 @@ Le bouton `❓`, dans le menu de Mnesios, est un lien vers de la documentation r
 
 ## Gratuit, collaboratif, évolutif
 
-Mnesios est une solution coopérative : les cartes publiques peuvent être modifiées par tous les utilisateurs, dans le but d'amélioration continue.
+Mnesios est une solution coopérative : les cartes publiques peuvent être modifiées par tous les utilisateurs, dans le but d'amélioration continue ([elles sont en licence Creative Commons](/rules)).
 
 Pas de panique : quand quelqu'un modifie une carte, il s'agit d'une nouvelle version et l'historique est conservé, permettant de ne pas perdre d'information. Si un utilisateur malveillant dégrade une carte, on peut restorer la verion précédente.
 
@@ -57,14 +62,8 @@ Vous pouvez [suivre des cartes](/following), et recevoir des notifications quand
 
 Le logiciel Mnesios lui-même est ouvert, vous pouvez consulter son code source, suggérer des changements ou apporter des améliorations dans [le repository MemCheck sur GitHub](https://github.com/VoltanFr/memcheck)&nbsp;<i class="fas fa-external-link-alt"></i>.
 
-## Contact
+## Règles, contact
+
+[Règles d'utilisation, droit d'auteur, licence](/rules).
 
 Vous pouvez contacter les administrateurs de l'application à l'adresse `Mnesios.Adm@gmail.com`.
-
-<br/>
-<br/>
-<br/>
-
----
-
-[Mnesios](https://www.mnesios.com/)&nbsp;🐘
