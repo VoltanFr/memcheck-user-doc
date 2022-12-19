@@ -29,13 +29,3 @@ Une autre motivation possible est quand vous voulez éloigner les dates de rép�
 ## Plusieurs paquets
 
 Vous pouvez créer d'autres paquets qui seront attachés à votre compte, mais il peu probable que vous en ayez l'utilité, et l'affichage de Mnesios n'est pas encore optimisé pour ce cas. Nous vous le déconseillons donc pour l'instant.
-
-<br/>
-<br/>
-<br/>
-
----
-
-[Retour à la page d'accueil de la documentation](/)
-
-[Mnesios](https://www.mnesios.com/)&nbsp;🐘

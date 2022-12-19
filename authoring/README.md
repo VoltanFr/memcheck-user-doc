@@ -92,14 +92,4 @@ Voir la page [Suivre des cartes ou des recherches](/following#suivre-des-cartes)
 
 ## Droit d'auteur, règles
 
-Voir [la page dédiée](/rules).
-
-<br/>
-<br/>
-<br/>
-
----
-
-[Retour à la page d'accueil de la documentation](/)
-
-[Mnesios](https://www.mnesios.com/)&nbsp;🐘
+En publiant une contribution dans Mnesios, vous acceptez de la placer irrévocablement sous [licence Creative Commons Attribution 4.0 International - CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.fr)&nbsp;<i class="fas fa-external-link-alt"></i>. Vous acceptez que votre [nom d'utilisateur](/account) soit associé à cette contribution. Voir [la page dédiée](/rules).

@@ -70,13 +70,3 @@ Dans la zone de filtrage, il y a un bouton intitulé `Abonnement` : il vous perm
 Vous configurez l'envoi de mails par Mnesios dans la [page de gestion de votre compte](/account).
 
 À ne pas confondre avec [l'abonnement à des cartes](/following), qui vous permet de suivre les modifications de ces cartes.
-
-<br/>
-<br/>
-<br/>
-
----
-
-[Retour à la page d'accueil de la documentation](/)
-
-[Mnesios](https://www.mnesios.com/)&nbsp;🐘

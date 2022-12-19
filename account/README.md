@@ -29,13 +29,3 @@ Voir la [page dédiée](/delete-personal-data).
 ## Abonnements
 
 La [page de gestion des abonnements](https://www.mnesios.com/Identity/Account/Manage/Subscriptions)&nbsp;🐘 vous permet de lister, modifier et supprimer vos [abonnements](/following). Actuellement il ne s'agit que des _recherches_ suivies.
-
-<br/>
-<br/>
-<br/>
-
----
-
-[Retour à la page d'accueil de la documentation](/)
-
-[Mnesios](https://www.mnesios.com/)&nbsp;🐘

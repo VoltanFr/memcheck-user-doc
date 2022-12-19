@@ -86,13 +86,3 @@ La reproduction de tout ou partie du site sur un support électronique ou papier
 ## Évolutivité de ces informations
 
 Nous nous réservons la possibilité de modifier toutes les règles mentionnées sur cette page selon les évolutions que nous apportons à Mnesios.
-
-<br/>
-<br/>
-<br/>
-
----
-
-[Retour à la page d'accueil de la documentation](/)
-
-[Mnesios](https://www.mnesios.com/)&nbsp;🐘

@@ -27,7 +27,3 @@ Ces boutons vous permettent les opérations suivantes...
 ## Autres informations
 
 Mnesios télécharge en arrière plan, afin que vous ne soyez pas gêné par des coupures réseau (par exemple si votre train passe dans un tunnel)
-
-[Retour à la page d'accueil de la documentation](/)
-
-[Mnesios](https://www.mnesios.com/)&nbsp;🐘

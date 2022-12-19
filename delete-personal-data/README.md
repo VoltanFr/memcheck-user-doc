@@ -21,13 +21,3 @@ Bien entendu, le web est indexé et historisé par de nombreux outils (eg moteur
 Vous trouverez plus d'informations sur la gestion du contenu dans la page [règles d'utilisation, droit d'auteur](/rules).
 
 À noter que vous pouvez aussi télécharger votre ([contenu privé](/rules#contenu-privé)).
-
-<br/>
-<br/>
-<br/>
-
----
-
-[Retour à la page d'accueil de la documentation](/)
-
-[Mnesios](https://www.mnesios.com/)&nbsp;🐘

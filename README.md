@@ -1,8 +1,3 @@
----
-title: Page principale
-nav_order: 1
----
-
 # Mnesios
 
 Mnesios ([https://www.mnesios.com/](https://www.Mnesios.com/)&nbsp;🐘) est un logiciel gratuit d'auto-apprentissage, qui vous aide à apprendre par cœur ce que vous voulez, comme le vocabulaire d'une langue étrangère, des capitales, des dates importantes, des formules mathématiques, etc.

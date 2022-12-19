@@ -9,8 +9,7 @@ search_enabled: true
 nav_sort: case_insensitive
 heading_anchors: true
 last_edit_timestamp: false
-back_to_top: true
-back_to_top_text: "Retour en haut"
+back_to_top: false
 #ga_tracking: UA-2709176-10
 #ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
 

@@ -21,13 +21,3 @@ C'est aussi un petit service pour éviter les erreurs de manipulation : Mnesios 
 ## Des indicateurs
 
 Il est important de comprendre que les labels ne sont que des indicateurs. Si vous sélectionnez les cartes d'un label pour votre [paquet](/deck) puis découvrez qu'une carte ne vous intéresse pas, il vous suffit de l'enlever.
-
-<br/>
-<br/>
-<br/>
-
----
-
-[Retour à la page d'accueil de la documentation](/)
-
-[Mnesios](https://www.mnesios.com/)&nbsp;🐘

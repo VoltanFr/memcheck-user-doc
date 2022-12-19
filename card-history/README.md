@@ -7,13 +7,3 @@ Vous pouvez accéder à l'historique des versions depuis la [page de modificatio
 Il n'est pas possible de supprimer une ancienne version d'une carte.
 
 À noter que si vous [supprimez votre compte](/delete-personal-data), l'historique de vos [cartes strictement privées](/authoring#visibilit-des-cartes) sera supprimé également.
-
-<br/>
-<br/>
-<br/>
-
----
-
-[Retour à la page d'accueil de la documentation](/)
-
-[Mnesios](https://www.mnesios.com/)&nbsp;🐘
