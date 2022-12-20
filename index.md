@@ -67,3 +67,7 @@ Le logiciel Mnesios lui-même est ouvert, vous pouvez consulter son code source,
 [Règles d'utilisation, droit d'auteur, licence](rules).
 
 Vous pouvez contacter les administrateurs de l'application à l'adresse `Mnesios.Adm@gmail.com`.
+
+## Version de la doc
+
+0.8

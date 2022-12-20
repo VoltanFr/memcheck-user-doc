@@ -1,5 +1,6 @@
 ﻿---
 nav_order: 2
+permalink: /learn.html
 ---
 
 # L'apprentissage
