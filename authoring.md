@@ -1,5 +1,6 @@
 ﻿---
 nav_order: 3
+permalink: /authoring.html
 ---
 
 # Créer ou modifier des cartes

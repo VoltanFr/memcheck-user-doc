@@ -4,6 +4,7 @@ plugins:
 title: Mnesios doc
 description: Mnesios, documentation utilisateur
 url: "https://userdoc.mnesios.com/"
+baseurl: '/'
 permalink: pretty
 search_enabled: true
 nav_sort: case_insensitive
@@ -12,7 +13,6 @@ last_edit_timestamp: false
 back_to_top: false
 #ga_tracking: UA-2709176-10
 #ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
-destination: /
 
 search:
   heading_level: 2
