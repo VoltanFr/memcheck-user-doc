@@ -13,7 +13,7 @@ Une carte Mnesios a quatre faces...
 
 ### Format du texte
 
-Vous pouvez utiliser le format [MarkDown](https://fr.wikipedia.org/wiki/Markdown) dans le texte des cartes. Par exemple, encadrez des mots avec deux étoiles pour les mettre en gras, ou avec le caractère souligné pour les mettre en italique. MarkDown est un format standard très répandu, dont vous trouverez par exemple une documentation [ici](https://github.com/luong-komorebi/Markdown-Tutorial/blob/master/README_fr.md).
+Vous pouvez utiliser le format [MarkDown](https://fr.wikipedia.org/wiki/Markdown)&nbsp;<i class="fas fa-external-link-alt"></i> dans le texte des cartes. Par exemple, encadrez des mots avec deux étoiles pour les mettre en gras, ou avec le caractère souligné pour les mettre en italique. MarkDown est un format standard très répandu, dont vous trouverez par exemple une documentation [ici](https://github.com/luong-komorebi/Markdown-Tutorial/blob/master/README_fr.md)&nbsp;<i class="fas fa-external-link-alt"></i>.
 
 La barre de boutons en haut de la face offre différent services pratiques pour modifier votre texte, et le bouton <i class="fab fa-markdown"></i> vous permet de visualiser la version finalisée de votre texte.
 
@@ -38,25 +38,25 @@ Avantages d'une image stockée dans le site Mnesios :
 
 Les images peuvent aussi ne pas être dans la base de données de Mnesios, mais venir d'internet. Le format est alors `![Légende](URL)`. Par exemple : `![Gorgonopsiens](https://upload.wikimedia.org/wikipedia/commons/2/2a/Inostrancevia_alexandri_-_MUSE.jpg)`.
 
-## La section _Langue_
+## La langue
 
 Vous pouvez ici indiquer dans quelle langue votre carte est rédigée, ce qui permettra aux utilisateurs de sélectionner des cartes dans la langue de leur choix.
 
 Pour l'instant toutes les cartes sont en français, et la [recherche](/search) avec choix de langue n'est pas encore implémentée.
 
-## La section _Labels_
+## Les labels
 
 C'est ici que vous pouvez catégoriser les cartes en leur attachant un ou des [labels](/tags). C'est un critère majeur de recherche. En cas de doute sur l'utilisation d'un label, vous pouvez aller voir sa description dans la [liste des labels](https://www.mnesios.com/Tags/)&nbsp;🐘.
 
-Vous pouvez en particulier labelliser les cartes privées avec [le label Perso](/tags/#le-label-perso).
+Vous pouvez en particulier labelliser les cartes strictement privées avec [le label Perso](/tags/#le-label-perso).
 
 ## Visibilité des cartes
 
 La section _Utilisateurs_ de la page vous permet de choisir la liste des utilisateurs qui ont accès aux cartes...
 
-- Par défaut lors de la création d'une carte, vous seul pouvez la voir : elle est alors dite _strictement privée_. Les autres utilisateurs ne peuvent même pas savoir qu'elle existe. Vous pouvez donc l'utiliser comme vous voulez, vous n'avez pas besoin de respecter un certain style, etc. Nous vous recommandons pour l'instant de ne pas mettre dans Mnesios d'informations confidentielles sensibles, même dans des cartes strictement privées (en attendant que l'application ait été validée par un audit de sécurité tiers).
-- En cliquant sur les étiquettes de noms d'utilitateurs vous les supprimez. Si vous les supprimez tous, la carte devient _publique_, c'est-à-dire accessible à tout utilisateur de Mnesios (même sans compte). Les autres utilisateurs peuvent alors l'ajouter dans leur paquet, ou la modifier (cf ci-dessous, [Modification](#modification)).
-- Vous pouvez sélectionner des utilisateurs et rendre la carte visible seulement par ces utilisateurs choisis ; on appelle cela _visibilité limitée_.
+- Par défaut lors de la création d'une carte, vous seul pouvez la voir : elle est alors dite `strictement privée`. Les autres utilisateurs ne peuvent même pas savoir qu'elle existe. Vous pouvez donc l'utiliser comme vous voulez, vous n'avez pas besoin de respecter un certain style, etc. Nous vous recommandons pour l'instant de ne pas mettre dans Mnesios d'informations confidentielles sensibles, même dans des cartes strictement privées (en attendant que l'application ait été validée par un audit de sécurité tiers).
+- En cliquant sur les étiquettes de noms d'utilitateurs vous les supprimez. Si vous les supprimez tous, la carte devient `publique`, c'est-à-dire accessible à tout utilisateur de Mnesios (même sans compte). Les autres utilisateurs peuvent alors l'ajouter dans leur paquet, ou la modifier (cf ci-dessous, [Modification](#modification)).
+- Vous pouvez sélectionner des utilisateurs et rendre la carte visible seulement par ces utilisateurs choisis ; on appelle cela `visibilité limitée`.
 
 ⚠ Attention : lorsqu'une carte n'est pas strictement privée, si quelqu'un d'autre ajoute dans son paquet ou en crée une nouvelle version, vous ne pourrez plus la rendre privée (ce qui créerait une incohérence dans le paquet de l'autre utilisateur).
 
@@ -76,13 +76,24 @@ Les versions précédentes des cartes modifiées sont conservées, et tout [l'hi
 
 ## Conseils pour une bonne carte publique
 
-Une bonne carte publique intéressera d'autres utilisateurs qui la mettront dans leur paquet, et la feront éventuellement évoluer. Elle aura une bonne évaluation, ce qui lui apportera de la popularité parmi les utilisateurs de Mnesios. Voir les conseils sur la [page de documentation des évaluations](/rating). Mnesios est un service collaboratif, dans lequel tous les utilisateurs peuvent contribuer aux cartes, les améliorant plus ou moins rapidement selon le sujet.
+Une bonne carte publique intéressera d'autres utilisateurs qui la mettront dans leur paquet, et la feront éventuellement évoluer. Elle aura une bonne évaluation, ce qui lui apportera de la popularité parmi les utilisateurs de Mnesios. Voir les conseils sur [les évaluations](/rating). Mnesios est un service collaboratif, dans lequel tous les utilisateurs peuvent contribuer aux cartes, les améliorant plus ou moins rapidement selon le sujet.
 
-Il s'agit ici avant tout des cartes publiques : les cartes privées sont plus une affaire de choix personnel.
-
-Mnesios est un service collaboratif, dans lequel tous les utilisateurs peuvent contribuer aux cartes, les améliorant plus ou moins rapidement selon le sujet.
+Ne dupliquez pas d'autre carte inutilement.
 
 Mon habitude est de commencer par créer une carte en privé, puis la rendre publique après quelques jours de recul qui me permettent de la faire évoluer.
+
+Quelques conseils sur le contenu...
+
+- Généralement, la question devrait être claire et fermée, c'est à dire attendre une réponse précise et sans ambiguïté. Par exemple...
+  - Plutôt que `Où la Seine prend-elle sa source ?`, préférez `Dans quel département la Seine prend-elle sa source ?`.
+  - Même si votre carte a le label `Vocabulaire anglais`{:.mnesiostag}, rédigez la question : plutôt que `Rouge ?`, préférez `Anglais pour Rouge ?`.
+- La réponse devrait être précisément ce qu'on attend par rapport à la question, et pas plus. En revanche c'est une bonne idée de donner des informations supplémentaires dans la face dédiée.
+- Du texte bien écrit et bien formaté (pas de fautes d'orthographe, pas d'utilisation abusive de majuscules).
+- Utilisez à bon escient le [formatage Markdown](#format-du-texte).
+- Des références crédibles, vérifiables.
+- Des labels bien choisis.
+
+Il s'agit ici avant tout des cartes publiques : les cartes privées sont plus une affaire de choix personnel.
 
 ## Suivi de la carte
 
