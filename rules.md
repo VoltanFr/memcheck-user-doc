@@ -1,3 +1,7 @@
+---
+nav_order: 1000
+---
+
 # Règles d'utilisation, droit d'auteur, licence
 
 ## Contenu ajouté par les utilisateurs

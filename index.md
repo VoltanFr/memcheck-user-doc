@@ -1,6 +1,6 @@
 ---
-layout: default
 title: Page principale
+nav_order: 1
 ---
 
 # Mnesios

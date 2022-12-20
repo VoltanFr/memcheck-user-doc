@@ -1,4 +1,8 @@
-﻿# L'apprentissage
+﻿---
+nav_order: 2
+---
+
+# L'apprentissage
 
 La [page d'apprentissage](https://www.mnesios.com/Learn/)&nbsp;🐘 est l'endroit où vous allez travailler votre mémoire. Elle peut être utilisée dans deux modes...
 

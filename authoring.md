@@ -1,4 +1,8 @@
-﻿# Créer ou modifier des cartes
+﻿---
+nav_order: 3
+---
+
+# Créer ou modifier des cartes
 
 La création de nouvelles cartes ou la modification d'une carte existante se font dans la [page dédiée de Mnesios](https://www.mnesios.com/Authoring/)&nbsp;🐘.
 
