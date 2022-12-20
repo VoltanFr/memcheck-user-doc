@@ -1,3 +1,9 @@
+---
+title: La gestion des tas
+nav_order: 10
+permalink: /heaping.html
+---
+
 # L'algorithme de montée dans les tas
 
 Dans la [page d'apprentissage](learn), lorsque vous indiquez que vous connaissez une réponse en cliquant sur le bouton vert `Je le savais`, la carte monte dans le tas de rang supérieur. Elle vous sera présentée à nouveau en révision après un délai : on dira à ce moment-là que la carte a _expiré_.

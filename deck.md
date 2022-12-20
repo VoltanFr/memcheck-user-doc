@@ -1,4 +1,9 @@
-﻿# Les paquets de cartes
+﻿---
+nav_order: 6
+permalink: /deck.html
+---
+
+# Les paquets de cartes
 
 Dans Mnesios, un paquet de cartes est une sélection de cartes d'apprentissage qu'un utilisateur a choisies pour les apprendre (l'ajout au paquet se fait dans la [page de parcours des cartes](search)).
 

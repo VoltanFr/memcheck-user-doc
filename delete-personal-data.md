@@ -1,4 +1,9 @@
-﻿# Suppression de compte
+﻿---
+nav_order: 12
+permalink: /delete-personal-data.html
+---
+
+# Suppression de compte
 
 La suppression de votre compte est une opération irréversible : **☠ vous n'aurez aucun moyen de récupérer les données effacées ☠**.
 

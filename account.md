@@ -1,3 +1,8 @@
+---
+nav_order: 11
+permalink: /account.html
+---
+
 # Votre compte utilisateur
 
 ## Profil

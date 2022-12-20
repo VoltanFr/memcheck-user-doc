@@ -1,5 +1,7 @@
 ﻿---
 nav_order: 4
+title: Recherche de cartes
+permalink: /search.html
 ---
 
 # La page de parcours des cartes

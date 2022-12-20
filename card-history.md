@@ -1,3 +1,9 @@
+---
+title: Historique des cartes
+nav_order: 9
+permalink: /card-history.html
+---
+
 # Historique des cartes
 
 Chaque modification de carte done lieu à un nouvel enregistrement de la _version courante_ de la carte. Mais les versions précédentes restent stockées dans la base de données de Mnesios.

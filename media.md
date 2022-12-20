@@ -1,4 +1,9 @@
-﻿# Les images
+﻿---
+nav_order: 7
+permalink: /media.html
+---
+
+# Les images
 
 La base de données Mnesios stocke des images, qui peuvent être utilisées dans les cartes.
 

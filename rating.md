@@ -1,5 +1,7 @@
 ---
+title: Évaluation des cartes
 nav_order: 5
+permalink: /rating.html
 ---
 
 # Évaluation des cartes par les utilisateurs

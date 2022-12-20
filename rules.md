@@ -1,5 +1,7 @@
 ---
-nav_order: 1000
+nav_order: 13
+title: Règles, licence
+permalink: /rules.html
 ---
 
 # Règles d'utilisation, droit d'auteur, licence
