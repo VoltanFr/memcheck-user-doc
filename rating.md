@@ -1,6 +1,6 @@
 # Évaluation des cartes par les utilisateurs
 
-Tout utilisateur qui utilise une carte peut lui donner une note, qui va de une à cinq étoiles. Il peut modifier cette note à volonté. Cette évalation va de une à cinq étoiles, et peut être modifiée depuis la [page de modification](/authoring) ou [celle d'apprentissage](/learn).
+Tout utilisateur qui utilise une carte peut lui donner une note, qui va de une à cinq étoiles. Il peut modifier cette note à volonté. Cette évalation va de une à cinq étoiles, et peut être modifiée depuis la [page de modification](authoring) ou [celle d'apprentissage](learn).
 
 Critères de qualité...
 

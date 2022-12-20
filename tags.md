@@ -1,6 +1,6 @@
 # Labels
 
-Dans Mnesios, les labels permettent de catégoriser les cartes. Une carte peut avoir plusieurs labels, un seul, ou aucun (ce qui est déconseillé pour les [cartes publiques](/authoring#visibilit-des-cartes)).
+Dans Mnesios, les labels permettent de catégoriser les cartes. Une carte peut avoir plusieurs labels, un seul, ou aucun (ce qui est déconseillé pour les [cartes publiques](authoring#visibilit-des-cartes)).
 
 Vous pouvez les parcourir dans [la page Mnesios liste des labels](https://www.mnesios.com/Tags/)&nbsp;🐘, accessible par le menu `Labels/Parcourir`.
 
@@ -20,4 +20,4 @@ C'est aussi un petit service pour éviter les erreurs de manipulation : Mnesios 
 
 ## Des indicateurs
 
-Il est important de comprendre que les labels ne sont que des indicateurs. Si vous sélectionnez les cartes d'un label pour votre [paquet](/deck) puis découvrez qu'une carte ne vous intéresse pas, il vous suffit de l'enlever.
+Il est important de comprendre que les labels ne sont que des indicateurs. Si vous sélectionnez les cartes d'un label pour votre [paquet](deck) puis découvrez qu'une carte ne vous intéresse pas, il vous suffit de l'enlever.

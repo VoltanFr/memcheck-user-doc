@@ -4,9 +4,9 @@
 
 ### Contenu public
 
-Lorsque vous créez une carte [visible](/authoring#visibilit-des-cartes) par d'autres utilisateurs, c'est à dire une carte publique ou à visibilité limitée (y compris par modification d'une carte existante), tout son contenu devient public, sous [licence Creative Commons Attribution 4.0 International - CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.fr)&nbsp;<i class="fas fa-external-link-alt"></i>. Vous acceptez ce contrat, et comprenez qu'une carte peut être modifiée par tout utilisateur qui y a accès.
+Lorsque vous créez une carte [visible](authoring#visibilit-des-cartes) par d'autres utilisateurs, c'est à dire une carte publique ou à visibilité limitée (y compris par modification d'une carte existante), tout son contenu devient public, sous [licence Creative Commons Attribution 4.0 International - CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.fr)&nbsp;<i class="fas fa-external-link-alt"></i>. Vous acceptez ce contrat, et comprenez qu'une carte peut être modifiée par tout utilisateur qui y a accès.
 
-De même, les images et tout autre contenu créé sur Mnesios est public, y compris tout l'[historique des cartes](/card-history).
+De même, les images et tout autre contenu créé sur Mnesios est public, y compris tout l'[historique des cartes](card-history).
 
 Tout ce contenu est accessible depuis le web, pour toute personne qui accède au site Mnesios, sans même nécessiter de compte. Il est conservé par Mnesios indéfiniment. Même après suppression, les administrateurs de Mnesios peuvent accéder au contenu.
 
@@ -14,13 +14,13 @@ Tout ce contenu est accessible depuis le web, pour toute personne qui accède au
 
 ### Contenu privé
 
-Le contenu des [cartes strictement privées](/authoring#visibilit-des-cartes) n'est accessible que par l'utilisateur qui les crée, et pour des raisons techniques ou de capacité de contrôle aux administrateurs de Mnesios.
+Le contenu des [cartes strictement privées](authoring#visibilit-des-cartes) n'est accessible que par l'utilisateur qui les crée, et pour des raisons techniques ou de capacité de contrôle aux administrateurs de Mnesios.
 
-Ce contenu peut être [téléchargé (download)](/account#tlchargement) par son auteur sur demande, tant que son compte est valide. Lors de la [suppression d'un compte utilisateur](/delete-personal-data), le contenu strictement privé est effacé irrémédiablement.
+Ce contenu peut être [téléchargé (download)](account#tlchargement) par son auteur sur demande, tant que son compte est valide. Lors de la [suppression d'un compte utilisateur](delete-personal-data), le contenu strictement privé est effacé irrémédiablement.
 
 ## Informations stockées sur les utilisateurs
 
-Certaines fonctionalités de Mnesios nécessitent la création d'un [compte utilisateur](/account). Les seules données personnelles concernant un utilisateur enregistrées dans la base de données sont son adresse électronique (mail), son nom d'utilisateur et la version hachée et [salée](https://fr.wikipedia.org/wiki/Salage_(cryptographie))&nbsp;<i class="fas fa-external-link-alt"></i> de son mot de passe. Le nom d'utilisateur est une information visible publiquement, alors que l'adresse mail et le hash du mot de passe sont strictement confidentiels.
+Certaines fonctionalités de Mnesios nécessitent la création d'un [compte utilisateur](account). Les seules données personnelles concernant un utilisateur enregistrées dans la base de données sont son adresse électronique (mail), son nom d'utilisateur et la version hachée et [salée](https://fr.wikipedia.org/wiki/Salage_(cryptographie))&nbsp;<i class="fas fa-external-link-alt"></i> de son mot de passe. Le nom d'utilisateur est une information visible publiquement, alors que l'adresse mail et le hash du mot de passe sont strictement confidentiels.
 
 Mnesios conserve des informations sur l'utilisation dans un objectif d'analyse, de statistiques et d'amélioration. Ces informations ne contiennent pas d'autres données personnelles que le compte de l'utilisateur. Par exemple, nous ne conservons pas les adresses IP (mais l'hébergeur est susceptible de les avoir dans les logs).
 
@@ -38,7 +38,7 @@ Mnesios n'utilise aucun cookie commercial.
 
 ## Envoi de courriers électroniques
 
-Mnesios vous enverra des messages automatiques si vous choisissez de [vous abonner](/following) pour en recevoir et vous cochez la case _Notifications par mail_ dans votre [compte utilisteur](https://www.mnesios.com/Identity/Account/Manage)&nbsp;🐘. Vous pouvez aussi y régler l'intervalle minimum entre deux mails automatiques.
+Mnesios vous enverra des messages automatiques si vous choisissez de [vous abonner](following) pour en recevoir et vous cochez la case _Notifications par mail_ dans votre [compte utilisteur](https://www.mnesios.com/Identity/Account/Manage)&nbsp;🐘. Vous pouvez aussi y régler l'intervalle minimum entre deux mails automatiques.
 
 Les administrateurs de Mnesios pourraient aussi vous contacter exceptionnellement, par exemple pour un problème technique avec votre compte, une enquête sur le service, un problème de contenu d'une carte, un changement important, etc.
 
@@ -48,7 +48,7 @@ Les deux informations confidentielles de votre compte utilisateur (adresse élec
 
 ## Droit à l'effacement
 
-Voir la page dédiée à la [suppression de compte](/delete-personal-data).
+Voir la page dédiée à la [suppression de compte](delete-personal-data).
 
 À noter que vous ne pouvez pas demander la suppression de vos contributions à du [contenu public](#contenu-public) : Mnesios est un travil collectif, pour lequel vous avez accepté la [licence Creative Commons Attribution 4.0 International - CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.fr)&nbsp;<i class="fas fa-external-link-alt"></i> qui permet l'affichage, l'utilisation et les modifications de vos participations.
 
@@ -67,19 +67,19 @@ En particulier, sera visé tout contenu :
 - spammant, c'est-à-dire qui vide à promouvoir quelque chose (eg un site externe) ou une offre commerciale ;
 - vandalisant, malfaisant.
 
-En utilisant Mnesios, vous acceptez l'autorité des administrateurs. Ces derniers ne peuvent pas être tenus responsables des contenus, mais feront le nécessaire sur [demande](/README.md#contact) pour corriger toute contribution problématique. Ils peuvent sanctionner un utilisateur (bannissement, temporaire ou définitif).
+En utilisant Mnesios, vous acceptez l'autorité des administrateurs. Ces derniers ne peuvent pas être tenus responsables des contenus, mais feront le nécessaire sur [demande](README.md#contact) pour corriger toute contribution problématique. Ils peuvent sanctionner un utilisateur (bannissement, temporaire ou définitif).
 
-Ces règles s'appliquent à tout le contenu, y compris [les images](/media) : lorsque vous en ajoutez, vous devez préciser leur origine, et leur licence doit être vérifiable (le plus souvent [licence Creative Commons](https://creativecommons.org/licences)&nbsp;<i class="fas fa-external-link-alt"></i>). Dans le cas de l'ajout d'une image qui est un travail personnel, vous devez préciser dans le champ `Source` que vous acceptez la [licence Creative Commons Attribution 4.0 International - CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.fr)&nbsp;<i class="fas fa-external-link-alt"></i>.
+Ces règles s'appliquent à tout le contenu, y compris [les images](media) : lorsque vous en ajoutez, vous devez préciser leur origine, et leur licence doit être vérifiable (le plus souvent [licence Creative Commons](https://creativecommons.org/licences)&nbsp;<i class="fas fa-external-link-alt"></i>). Dans le cas de l'ajout d'une image qui est un travail personnel, vous devez préciser dans le champ `Source` que vous acceptez la [licence Creative Commons Attribution 4.0 International - CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.fr)&nbsp;<i class="fas fa-external-link-alt"></i>.
 
 ## Mentions légales additionnelles
 
 Mnesios ([https://www.mnesios.com/](https://www.Mnesios.com/)&nbsp;🐘) est un site communautaire, sans but lucratif, ouvert à tous et sans la moindre publicité, donc l'objectif est le partage de cartes d'apprentissages.
 
-Une adresse électronique de contact est disponible sur [la page d'accueil de cette documentation](/README.md#contact).
+Une adresse électronique de contact est disponible sur [la page d'accueil de cette documentation](README.md#contact).
 
 Mnesios est hébergé dans le cloud [Microsoft Azure](https://learn.microsoft.com/fr-fr/azure/)&nbsp;<i class="fas fa-external-link-alt"></i>. Le code source du logiciel est disponible publiquement dans le [repo GitHub MemCheck](https://github.com/VoltanFr/memcheck)&nbsp;<i class="fas fa-external-link-alt"></i>.
 
-Les utilisateurs s'engagent à respecter les règles de la [page de documentation Règles d'utilisation, droit d'auteur, licence](/rules).
+Les utilisateurs s'engagent à respecter les règles de la [page de documentation Règles d'utilisation, droit d'auteur, licence](rules).
 
 La reproduction de tout ou partie du site sur un support électronique ou papier, quel qu’il soit, est autorisée, en suivant les conditions de la licence [licence Creative Commons Attribution 4.0 International - CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.fr)&nbsp;<i class="fas fa-external-link-alt"></i>. Des liens vers les pages du site peuvent être établis librement.
 
