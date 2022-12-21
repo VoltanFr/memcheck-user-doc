@@ -22,7 +22,7 @@ Les autres faces sont alors affichées : arrière, informations supplémentaires
 
 Ces boutons vous permettent les opérations suivantes...
 
-- Ouvrir la [page d'édition](authoring) pour cette carte.
+- Ouvrir la [page d'édition](/authoring.md) pour cette carte.
 - Enlever la carte de votre [paquet](deck).
 - Afficher des informations sur la carte.
 - Connaître la [visibilité](authoring#visibilité-des-cartes) de la carte.

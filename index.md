@@ -31,7 +31,7 @@ Pour en savoir plus sur la recherche de cartes, lisez la [documentation spécifi
 
 ## Créez vos cartes
 
-Il est très facile d'écrire vos propres carte : ça se passe dans la [page dédiée](authoring). Vous contrôlez la [visibilité](authoring.html#visibilit%C3%A9-des-cartes) des cartes que vous créez : _strictement privées_, _visibles seulement par des utilisateurs choisis_, _publiques_.
+Il est très facile d'écrire vos propres carte : ça se passe dans la [page dédiée](/authoring.md). Vous contrôlez la [visibilité](authoring.html#visibilit%C3%A9-des-cartes) des cartes que vous créez : _strictement privées_, _visibles seulement par des utilisateurs choisis_, _publiques_.
 
 ## L'apprentissage
 
