@@ -5,7 +5,7 @@ permalink: /tags.html
 
 # Labels
 
-Dans Mnesios, les labels permettent de catégoriser les cartes. Une carte peut avoir plusieurs labels, un seul, ou aucun (ce qui est déconseillé pour les [cartes publiques](authoring#visibilité-des-cartes)).
+Dans Mnesios, les labels permettent de catégoriser les cartes. Une carte peut avoir plusieurs labels, un seul, ou aucun (ce qui est déconseillé pour les [cartes publiques](authoring.md#visibilité-des-cartes)).
 
 Vous pouvez les parcourir dans [la page Mnesios liste des labels](https://www.mnesios.com/Tags/)&nbsp;🐘, accessible par le menu `Labels/Parcourir`.
 

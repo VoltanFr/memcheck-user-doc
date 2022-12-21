@@ -12,7 +12,7 @@ En pratique...
 - Vos [paquets](deck.md) seront supprimés.
 - Les [évaluations](rating.md) que vous avez données à des cartes seront effacées.
 - Vos [abonnements](following.md) à des cartes ou à des recherches seront résiliés.
-- Vos [cartes strictement privées](authoring#visibilité-des-cartes) (visibles par vous seul) seront supprimées de la base de données, y compris leur [historique](card-history.md).
+- Vos [cartes strictement privées](authoring.md#visibilité-des-cartes) (visibles par vous seul) seront supprimées de la base de données, y compris leur [historique](card-history.md).
 - L'information hachée de votre [mot de passe](account.md#mot-de-passe) sera éliminée.
 - Votre [nom d'utilisateur](account.md) sera remplacé par un texte standard indiquant que le compte n'existe plus (par exemple dans l'[historique des versions de cartes](card-history.md) des cartes publiques), et ne sera donc plus visible nulle part.
 - Votre [adresse de courrier électronique](account.md) sera oubliée.

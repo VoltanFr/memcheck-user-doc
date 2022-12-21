@@ -53,7 +53,7 @@ Pour l'instant toutes les cartes sont en français, et la [recherche](search.md)
 
 C'est ici que vous pouvez catégoriser les cartes en leur attachant un ou des [labels](tags.md). C'est un critère majeur de recherche. En cas de doute sur l'utilisation d'un label, vous pouvez aller voir sa description dans la [liste des labels](https://www.mnesios.com/Tags/)&nbsp;🐘.
 
-Vous pouvez en particulier labelliser les cartes strictement privées avec [le label Perso](tags.html#le-label-perso).
+Vous pouvez en particulier labelliser les cartes strictement privées avec [le label Perso](tags.md#le-label-perso).
 
 ## Visibilité des cartes
 

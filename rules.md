@@ -10,7 +10,7 @@ permalink: /rules.html
 
 ### Contenu public
 
-Lorsque vous créez une carte [visible](authoring#visibilité-des-cartes) par d'autres utilisateurs, c'est à dire une carte publique ou à visibilité limitée (y compris par modification d'une carte existante), tout son contenu devient public, sous [licence Creative Commons Attribution 4.0 International - CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.fr)&nbsp;<i class="fas fa-external-link-alt"></i>. Vous acceptez ce contrat, et comprenez qu'une carte peut être modifiée par tout utilisateur qui y a accès.
+Lorsque vous créez une carte [visible](authoring.md#visibilité-des-cartes) par d'autres utilisateurs, c'est à dire une carte publique ou à visibilité limitée (y compris par modification d'une carte existante), tout son contenu devient public, sous [licence Creative Commons Attribution 4.0 International - CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.fr)&nbsp;<i class="fas fa-external-link-alt"></i>. Vous acceptez ce contrat, et comprenez qu'une carte peut être modifiée par tout utilisateur qui y a accès.
 
 De même, les images et tout autre contenu créé sur Mnesios est public, y compris tout l'[historique des cartes](card-history.md).
 
@@ -20,7 +20,7 @@ Tout ce contenu est accessible depuis le web, pour toute personne qui accède au
 
 ### Contenu privé
 
-Le contenu des [cartes strictement privées](authoring#visibilité-des-cartes) n'est accessible que par l'utilisateur qui les crée, et pour des raisons techniques ou de capacité de contrôle aux administrateurs de Mnesios.
+Le contenu des [cartes strictement privées](authoring.md#visibilité-des-cartes) n'est accessible que par l'utilisateur qui les crée, et pour des raisons techniques ou de capacité de contrôle aux administrateurs de Mnesios.
 
 Ce contenu peut être [téléchargé (download)](account.md#téléchargement) par son auteur sur demande, tant que son compte est valide. Lors de la [suppression d'un compte utilisateur](delete-personal-data.md), le contenu strictement privé est effacé irrémédiablement.
 
@@ -73,7 +73,7 @@ En particulier, sera visé tout contenu :
 - spammant, c'est-à-dire qui vide à promouvoir quelque chose (eg un site externe) ou une offre commerciale ;
 - vandalisant, malfaisant.
 
-En utilisant Mnesios, vous acceptez l'autorité des administrateurs. Ces derniers ne peuvent pas être tenus responsables des contenus, mais feront le nécessaire sur [demande](index#règles-contact) pour corriger toute contribution problématique. Ils peuvent sanctionner un utilisateur (bannissement, temporaire ou définitif).
+En utilisant Mnesios, vous acceptez l'autorité des administrateurs. Ces derniers ne peuvent pas être tenus responsables des contenus, mais feront le nécessaire sur [demande](index.md#règles-contact) pour corriger toute contribution problématique. Ils peuvent sanctionner un utilisateur (bannissement, temporaire ou définitif).
 
 Ces règles s'appliquent à tout le contenu, y compris [les images](media.md) : lorsque vous en ajoutez, vous devez préciser leur origine, et leur licence doit être vérifiable (le plus souvent [licence Creative Commons](https://creativecommons.org/licences)&nbsp;<i class="fas fa-external-link-alt"></i>). Dans le cas de l'ajout d'une image qui est un travail personnel, vous devez préciser dans le champ `Source` que vous acceptez la [licence Creative Commons Attribution 4.0 International - CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.fr)&nbsp;<i class="fas fa-external-link-alt"></i>.
 
@@ -81,7 +81,7 @@ Ces règles s'appliquent à tout le contenu, y compris [les images](media.md) : 
 
 Mnesios ([https://www.mnesios.com/](https://www.Mnesios.com/)&nbsp;🐘) est un site communautaire, sans but lucratif, ouvert à tous et sans la moindre publicité, donc l'objectif est le partage de cartes d'apprentissages.
 
-Une adresse électronique de contact est disponible sur [la page d'accueil de cette documentation](index#règles-contact).
+Une adresse électronique de contact est disponible sur [la page d'accueil de cette documentation](index.md#règles-contact).
 
 Mnesios est hébergé dans le cloud [Microsoft Azure](https://learn.microsoft.com/fr-fr/azure/)&nbsp;<i class="fas fa-external-link-alt"></i>. Le code source du logiciel est disponible publiquement dans le [repo GitHub MemCheck](https://github.com/VoltanFr/memcheck)&nbsp;<i class="fas fa-external-link-alt"></i>.
 
