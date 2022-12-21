@@ -29,12 +29,12 @@ Les critères de recherche vous permettent de définir comment vous souhaitez s�
   Ou bien si vous vous intéressez à la navigation maritime mais pas à celle en eaux intérieures, vous pouvez indiquer comme _label requis_ `Marine`{:.mnesiostag} et comme _label exclus_ `Permis bateau fluvial`{:.mnesiostag} et `Vocabulaire fluvial`{:.mnesiostag}.  
   Le label requis est le critère le plus utilisé, typiquement pour trouver des cartes à apprendre sur le thème qui vous intéresse. Il faut bien comprendre que [les labels ne sont que des indicateurs](tags#des-indicateurs).
 - [Propriétaire](account) indique que l'utilisateur sélectionné doit être auteur d'au moins une version de la carte. Ce critère vous permet par exemple de trouver les cartes auxquelles vous avez participé, ou un utilisateur que vous appréciez.
-- [Visibilité](authoring#visibilit-des-cartes) sert à filtrer selon l'accessibilité des cartes.
+- [Visibilité](authoring#visibilité-des-cartes) sert à filtrer selon l'accessibilité des cartes.
   - _Au-delà du propriétaire_ sélectionne les cartes publiques, c'est-à-dire vos cartes auxquelles d'autres utilisateurs peuvent accéder, ou les cartes d'autres utilisateurs que vous avez le droit de voir.
   - _Privées_ sélectionne les cartes qui ne sont visibles que par leur auteur. Autrement dit, ce sont vos cartes privées.
 - [Texte](authoring#les-faces) sert à sélectionner les cartes qui contiennent les caractères indiqués. Ce critère ne tient pas compte de la casse (majuscules ou minuscules) ou des espaces au début ou à la fin.  
   Par exemple, si vous cherchez les cartes à propos du _Ph_ (Potentiel hydrogène), vous pouvez faire une recherche avec le label `Chimie`{:.mnesiostag} et le texte _ph_.
-- [Références](authoring#références)
+- [Références](authoring#les-faces)
   - _Aucune_ séléctionne des cartes dont la face _Références_ est vide, par exemple pour les améliorer en renseignement cette face.
   - _Non vide_ sélectionne les cartes qui ont des informations à propos de la source, ce qui est un indicateur de qualité.
 - [Évaluation moyenne](rating) sert à filtrer les cartes selon la moyenne des évaluations que leur ont donné les utilisateurs. Pratique pour trouver des cartes de qualité, ou des cartes à améliorer.

@@ -13,7 +13,7 @@ Wikipédia a une [page dédiée aux cartes d'apprentissage](https://fr.wikipedia
 
 ## Nouvel utilisateur : démarrage rapide
 
-1. Créez un [compte utilisateur](account/README.md) en suivant le lien de la page d'accueil ou en cliquant [ici](https://www.mnesios.com/Identity/Account/Register)&nbsp;🐘.
+1. Créez un [compte utilisateur](account) en suivant le lien de la page d'accueil ou en cliquant [ici](https://www.mnesios.com/Identity/Account/Register)&nbsp;🐘.
 1. Ouvrez la [page de recherche de cartes](search) (menu `Cartes`/`Parcourir`).
 1. Choisissez des critères de sélection, par exemple un [label](tags) ou une [évaluation moyenne](rating).
 1. Lancez la recherche avec le bouton `Exécuter`.
@@ -25,28 +25,24 @@ Wikipédia a une [page dédiée aux cartes d'apprentissage](https://fr.wikipedia
 
 ## Utilisez les cartes existantes
 
-Vous pouvez **sélectionner des choses à apprendre parmi la base de données des cartes disponibles**. Le menu `Cartes`/`Parcourir` vous amène sur la [page de recherche](https://www.Mnesios.com/Search/Index)&nbsp;🐘. De là, vous pouvez en particulier ajouter des cartes à votre paquet.
+Vous pouvez **sélectionner des choses à apprendre parmi la base de données des cartes disponibles**. Le menu `Cartes`/`Parcourir` vous amène sur la [page de recherche](search). De là, vous pouvez en particulier ajouter des cartes à votre paquet.
 
 Pour en savoir plus sur la recherche de cartes, lisez la [documentation spécifique](search).
 
 ## Créez vos cartes
 
-Il est très facile d'écrire vos propres carte : ça se passe dans la [page dédiée](https://www.mnesios.com/Authoring/Index)&nbsp;🐘. Vous contrôlez la [visibilité](authoring/README.md#visibilit-des-cartes) des cartes que vous créez : _strictement privées_, _visibles seulement par des utilisateurs choisis_, _publiques_.
-
-Pour en savoir plus sur la création et la modification de cartes, lisez la [documentation spécifique](authoring).
+Il est très facile d'écrire vos propres carte : ça se passe dans la [page dédiée](authoring). Vous contrôlez la [visibilité](authoring.html#visibilit%C3%A9-des-cartes) des cartes que vous créez : _strictement privées_, _visibles seulement par des utilisateurs choisis_, _publiques_.
 
 ## L'apprentissage
 
-Votre sélection de cartes s'appelle un **[paquet de cartes](https://www.Mnesios.com/Decks/Index)**&nbsp;🐘. Dans un paquet, les cartes sont réparties par **tas** selon l'état de vos connaissances.
+Votre sélection de cartes s'appelle un [paquet de cartes](deck). Dans un paquet, les cartes sont réparties par **tas** selon l'état de vos connaissances.
 Lorsque vous ajoutez une carte dans votre paquet, elle est dans le tas nommé _cartes non apprises_.
 
-Lorsque vous apprenez une carte, si vous indiquez que vous connaissiez la réponse, la carte est déplacée dans le tas supérieur, et si vous aviez faux, la carte est remise dans le tas des non apprises.
+Lorsque vous [apprenez](learn) une carte, si vous indiquez que vous connaissiez la réponse, la carte est déplacée dans le tas supérieur, et si vous aviez faux, la carte est remise dans le tas des non apprises.
 
 Chaque tas a sa période d'expiration, dont la formule est deux élevé à la puissance le numéro du tas (2<sup>tas</sup>). Ainsi, une carte qui est dans le tas numéro un vous sera soumise à nouveau deux jours après qu'elle y soit arrivée. Dans le tas numéro deux, cet intervalle est de quatre jours, etc. Une carte qui est dans le tas numéro 10 ne vous sera présentée à nouveau qu'au bout de 2 ans et 9 mois !
 
 Un aspect majeur de l'auto-apprentissage est que **vous** indiquez si vous connaissiez la réponse, à votre guise. Par exemple, si une fiche de la catégorie `Science physique`{:.mnesiostag} vous demande [la densité de l'or](https://www.Mnesios.com/Authoring?CardId=534b3214-5880-47a0-d8f0-08d7eba1e1a5)&nbsp;🐘, c'est vous qui validez ou non votre réponse selon la précision que vous souhaitez avoir : vous pouvez considérer que "environ 20" est une réponse satisfaisante, ou au contraire exiger de vous-même une précision au dixième.
-
-Pour en savoir plus sur les paquets, lisez la [documentation spécifique](deck).
 
 ## Documentation
 
@@ -70,4 +66,4 @@ Vous pouvez contacter les administrateurs de l'application à l'adresse `Mnesios
 
 ## Version de la doc
 
-0.8
+0.9
