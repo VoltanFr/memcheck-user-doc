@@ -13,4 +13,4 @@ Vous pouvez insérer dans la base de données des images qui pourront être util
 
 ## Droit d'auteur, règles
 
-Voir [la page dédiée](rules).
+Voir [la page dédiée](rules.md).

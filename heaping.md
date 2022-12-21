@@ -6,7 +6,7 @@ permalink: /heaping.html
 
 # L'algorithme de montée dans les tas
 
-Dans la [page d'apprentissage](learn), lorsque vous indiquez que vous connaissez une réponse en cliquant sur le bouton vert `Je le savais`, la carte monte dans le tas de rang supérieur. Elle vous sera présentée à nouveau en révision après un délai : on dira à ce moment-là que la carte a _expiré_.
+Dans la [page d'apprentissage](learn.md), lorsque vous indiquez que vous connaissez une réponse en cliquant sur le bouton vert `Je le savais`, la carte monte dans le tas de rang supérieur. Elle vous sera présentée à nouveau en révision après un délai : on dira à ce moment-là que la carte a _expiré_.
 
 Actuellement, un seul algorithme vous est proposé. D'autres sont envisagés pour plus tard (voir [Offer other heaping algorithms](https://github.com/VoltanFr/memcheck/issues/349)&nbsp;<i class="fas fa-external-link-alt"></i>).
 

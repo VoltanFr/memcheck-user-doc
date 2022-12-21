@@ -8,7 +8,7 @@ permalink: /learn.html
 La [page d'apprentissage](https://www.mnesios.com/Learn/)&nbsp;🐘 est l'endroit où vous allez travailler votre mémoire. Elle peut être utilisée dans deux modes...
 
 - `Apprentissage` : vous apprenez les cartes dites _inconnues_, qui sont dans le [tas des cartes non apprises](deck#les-tas) (pas encore apprises ou oubliées).
-- `Révision` : vous révisez les cartes _expirées_, qui sont dans les autres tas (voir la documentation sur [l'algorithme de montée dans les tas](heaping)).
+- `Révision` : vous révisez les cartes _expirées_, qui sont dans les autres tas (voir la documentation sur [l'algorithme de montée dans les tas](heaping.md)).
 
 Le plus souvent, vous accéderez à cette page par un lien sur la page de démarrage de Mnesios. Vous pouvez aussi utiliser le menu (dans `Apprendre`).
 
@@ -22,12 +22,12 @@ Les autres faces sont alors affichées : arrière, informations supplémentaires
 
 Ces boutons vous permettent les opérations suivantes...
 
-- Ouvrir la [page d'édition](/authoring.md) pour cette carte.
-- Enlever la carte de votre [paquet](deck).
+- Ouvrir la [page d'édition](authoring.md) pour cette carte.
+- Enlever la carte de votre [paquet](deck.md).
 - Afficher des informations sur la carte.
 - Connaître la [visibilité](authoring#visibilité-des-cartes) de la carte.
 - Affichage du [tas](deck#les-tas) dans lequel se trouve la carte, et déplacement de la carte vers un autre tas (voir [Changer les cartes de tas manuellement](deck#changer-les-cartes-de-tas-manuellement)).
-- Consulter l'[évaluation](rating) moyenne des utilisateurs, ainsi que la votre que vous pouvez modifier.
+- Consulter l'[évaluation](rating.md) moyenne des utilisateurs, ainsi que la votre que vous pouvez modifier.
 
 ## Autres informations
 

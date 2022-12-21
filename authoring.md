@@ -30,14 +30,14 @@ Les faces des cartes peuvent aussi contenir des images en plus du texte.
 
 #### Les images de la base de données Mnesios
 
-La base de données de Mnesios contient une [liste d'images](media). Vous pouvez insérer une de ces images dans votre texte en utilisant une balise sur le modèle `![Mnesios:Afrique australe,size=small]`.
+La base de données de Mnesios contient une [liste d'images](media.md). Vous pouvez insérer une de ces images dans votre texte en utilisant une balise sur le modèle `![Mnesios:Afrique australe,size=small]`.
 
-Dans la [liste des images](media), vous trouverez sur chaque image un bouton qui vous permet de copier dans votre presse-papier le lien vers l'image dans ce format, afin de le coller dans une face de carte.
+Dans la [liste des images](media.md), vous trouverez sur chaque image un bouton qui vous permet de copier dans votre presse-papier le lien vers l'image dans ce format, afin de le coller dans une face de carte.
 
 Avantages d'une image stockée dans le site Mnesios :
 
 - sa disponibilité est garantie, vous ne risquez pas une suppression ou un changement d'adresse ;
-- Mnesios les télécharge en arrière plan dans la [page d'apprentissage](learn).
+- Mnesios les télécharge en arrière plan dans la [page d'apprentissage](learn.md).
 
 #### Les images provenant d'autres sites
 
@@ -47,11 +47,11 @@ Les images peuvent aussi ne pas être dans la base de données de Mnesios, mais 
 
 Vous pouvez ici indiquer dans quelle langue votre carte est rédigée, ce qui permettra aux utilisateurs de sélectionner des cartes dans la langue de leur choix.
 
-Pour l'instant toutes les cartes sont en français, et la [recherche](search) avec choix de langue n'est pas encore implémentée.
+Pour l'instant toutes les cartes sont en français, et la [recherche](search.md) avec choix de langue n'est pas encore implémentée.
 
 ## Les labels
 
-C'est ici que vous pouvez catégoriser les cartes en leur attachant un ou des [labels](tags). C'est un critère majeur de recherche. En cas de doute sur l'utilisation d'un label, vous pouvez aller voir sa description dans la [liste des labels](https://www.mnesios.com/Tags/)&nbsp;🐘.
+C'est ici que vous pouvez catégoriser les cartes en leur attachant un ou des [labels](tags.md). C'est un critère majeur de recherche. En cas de doute sur l'utilisation d'un label, vous pouvez aller voir sa description dans la [liste des labels](https://www.mnesios.com/Tags/)&nbsp;🐘.
 
 Vous pouvez en particulier labelliser les cartes strictement privées avec [le label Perso](tags.html#le-label-perso).
 
@@ -67,21 +67,21 @@ La section _Utilisateurs_ de la page vous permet de choisir la liste des utilisa
 
 ## Le choix d'ajout au paquet
 
-La case à cocher _Ajouter à votre paquet_ a pour effet, comme son nom l'indique, de mettre la carte dans votre [paquet](deck) (dans le tas des cartes non apprises).
+La case à cocher _Ajouter à votre paquet_ a pour effet, comme son nom l'indique, de mettre la carte dans votre [paquet](deck.md) (dans le tas des cartes non apprises).
 
 ## Modification
 
-Vous pouvez ouvrir une carte Mnesios pour modification depuis deux endroits : la [page d'apprentissage](learn) et la [page de recherche](search). Cette même page de création de carte est alors ouverte mais en mode édition ([exemple](https://www.mnesios.com/Authoring?CardId=a862f9b0-4ed9-4be0-d267-08d7ebb03fda)&nbsp;🐘), et trois fonctionnalités supplémentaires vous y sont offertes...
+Vous pouvez ouvrir une carte Mnesios pour modification depuis deux endroits : la [page d'apprentissage](learn.md) et la [page de recherche](search.md). Cette même page de création de carte est alors ouverte mais en mode édition ([exemple](https://www.mnesios.com/Authoring?CardId=a862f9b0-4ed9-4be0-d267-08d7ebb03fda)&nbsp;🐘), et trois fonctionnalités supplémentaires vous y sont offertes...
 
 - **Le bouton 🛈** vous donne accès à des informations générales sur la carte.
 - **Le bouton <i class="fas fa-history"></i>** permet d'ouvrir l'historique de la carte, et de voir des informations sur les versions. En effet, dans Mnesios toutes les opérations sur les cartes sont historisées, ce qui permet de tracer les évolutions et si nécessaire de revenir en arrière.
-- **Le bouton d'évaluation** vous montre votre [évaluation](rating) de la carte, vous permet de la modifier, et indique aussi l'évaluation moyenne par les utilisateurs.
+- **Le bouton d'évaluation** vous montre votre [évaluation](rating.md) de la carte, vous permet de la modifier, et indique aussi l'évaluation moyenne par les utilisateurs.
 
-Les versions précédentes des cartes modifiées sont conservées, et tout [l'historique des versions](card-history) peut -être consulté.
+Les versions précédentes des cartes modifiées sont conservées, et tout [l'historique des versions](card-history.md) peut -être consulté.
 
 ## Conseils pour une bonne carte publique
 
-Une bonne carte publique intéressera d'autres utilisateurs qui la mettront dans leur paquet, et la feront éventuellement évoluer. Elle aura une bonne évaluation, ce qui lui apportera de la popularité parmi les utilisateurs de Mnesios. Voir les conseils sur [les évaluations](rating). Mnesios est un service collaboratif, dans lequel tous les utilisateurs peuvent contribuer aux cartes, les améliorant plus ou moins rapidement selon le sujet.
+Une bonne carte publique intéressera d'autres utilisateurs qui la mettront dans leur paquet, et la feront éventuellement évoluer. Elle aura une bonne évaluation, ce qui lui apportera de la popularité parmi les utilisateurs de Mnesios. Voir les conseils sur [les évaluations](rating.md). Mnesios est un service collaboratif, dans lequel tous les utilisateurs peuvent contribuer aux cartes, les améliorant plus ou moins rapidement selon le sujet.
 
 Ne dupliquez pas d'autre carte inutilement.
 
@@ -102,10 +102,10 @@ Il s'agit ici avant tout des cartes publiques : les cartes privées sont plus un
 
 ## Suivi de la carte
 
-Il y a dans les [réglages de votre compte utilisateur](account) une option intitulée `Abonnement aux notifications lorsque vous créez ou modifiez une carte` : lors de la création d'une nouvelle carte, selon cette option, vous serez éventuellement automatiquement abonné aux notifications sur modification de la carte.
+Il y a dans les [réglages de votre compte utilisateur](account.md) une option intitulée `Abonnement aux notifications lorsque vous créez ou modifiez une carte` : lors de la création d'une nouvelle carte, selon cette option, vous serez éventuellement automatiquement abonné aux notifications sur modification de la carte.
 
-Voir la page [Suivre des cartes ou des recherches](following#suivre-des-cartes) pour plus d'informations.
+Voir la page [Suivre des cartes ou des recherches](following.md#suivre-des-cartes) pour plus d'informations.
 
 ## Droit d'auteur, règles
 
-En publiant une contribution dans Mnesios, vous acceptez de la placer irrévocablement sous [licence Creative Commons Attribution 4.0 International - CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.fr)&nbsp;<i class="fas fa-external-link-alt"></i>. Vous acceptez que votre [nom d'utilisateur](account) soit associé à cette contribution. Voir [la page dédiée](rules).
+En publiant une contribution dans Mnesios, vous acceptez de la placer irrévocablement sous [licence Creative Commons Attribution 4.0 International - CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.fr)&nbsp;<i class="fas fa-external-link-alt"></i>. Vous acceptez que votre [nom d'utilisateur](account.md) soit associé à cette contribution. Voir [la page dédiée](rules.md).
