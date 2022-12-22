@@ -1,5 +1,4 @@
 ---
-title: Historique des cartes
 nav_order: 9
 permalink: /card-history.html
 ---
