@@ -60,7 +60,7 @@ Voir la page dédiée à la [suppression de compte](delete-personal-data.md).
 
 ## Droits d'auteur et autres règles
 
-Les administrateurs Mnesios ont la possibilité de vérifier le contenu des cartes, de les modifier et les supprimer.
+Les administrateurs Mnesios ont la possibilité de vérifier le contenu des cartes et des images, de les modifier et les supprimer.
 
 En particulier, sera visé tout contenu :
 
