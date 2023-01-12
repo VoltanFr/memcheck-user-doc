@@ -11,6 +11,8 @@ Vous pouvez les parcourir dans [la page Mnesios liste des labels](https://www.mn
 
 La colonne _Cartes_ vous indique le nombre de cartes publiques qui ont ce label. Ainsi, si vous ou d'autres utilisateurs avez des cartes privées avec ce label, elle ne sont pas comptabilisées.
 
+La colonne _Éval_ indique la moyenne des [évaluations moyennes](/rating.md) des cartes publiques portant le label.
+
 ## Créer un label
 
 Vous pouvez créer des labels. Parcourez d'abord la liste pour vérifier s'il n'y en a pas déjà un qui correspond. Choisissez un nom court et clair. Fournissez une description précise.
