@@ -15,6 +15,12 @@ Pour l'utiliser :
 - lancez la recherche avec le bouton _Exécuter_ ;
 - explorez la liste obtenue et exploitez-la (cf ci-dessous, [Les actions disponibles sur la liste obtenue](#les-actions-disponibles-sur-la-liste-obtenue)).
 
+## Conseils
+
+La recherche n'est pas encore bien optimisée. Indiquer des labels requis accélère beaucoup les requêtes.
+
+Par exemple, si vous recherchez le mot `Intestin` sans indiquer de label, l'exécution de la requête prend environ 18 secondes. Alors que si vous ajoutez le label `Anatomie, physiologie, santé`{:.mnesiostag}, les résultats sont obtenus en moins d'une seconde.
+
 ## Filtrage : critères de recherche
 
 Les critères de recherche vous permettent de définir comment vous souhaitez sélectionner des cartes. Cette section de la page peut s'afficher ou s'escamoter avec le bouton **&#x22EE;** en haut à gauche.
@@ -55,7 +61,7 @@ Le résultat de la recherche s'affiche sous forme de liste, dans laquelle vous p
 
 ### Actions sur les cartes, par le bouton <i class="fas fa-ellipsis-h"></i>
 
-- **Vous abonner aux notifications** ou vous **désabonner** pour les cartes sélectionnées, afin d'être prévenu par mail lors de modifications des cartes. Voir la [page dédiée](following.md) pour plus d'informations.
+- **Vous abonner aux notifications** ou vous **désabonner** pour les cartes sélectionnées, afin d'être prévenu par mail lors de modifications des cartes. Voir la [page dédiée](following.md#suivre-des-cartes) pour plus d'informations.
 - **Supprimer les cartes** de Mnesios : à ne pas confondre avec l'opération qui consiste à l'enlever d'un paquet. Il s'agit ici de supprimer complètement une carte de Mnesios, elle ne sera plus accessible par aucun utilisateur. Cette suppression n'est possible que si :
   - personne d'autre que vous n'a la carte dans un paquet ;
   - personne d'autre que vous n'est auteur d'une version de la carte.
@@ -71,8 +77,8 @@ Une recherche renvoie parfois plus de cartes que la page n'en affiche. Des bouto
 
 ## Le bouton abonnement de la zone de filtrage
 
-Dans la zone de filtrage, il y a un bouton intitulé `Abonnement` : il vous permet d'enregistrer cette recherche dans Mnesios pour être prévenu par mail lorsque les résultats changent. Cette fonctionnalité est très pratique quand vous vous intéressez à un sujet et souhaitez être au courant des modifications, par exemple quand quelqu'un ajoute une carte avec le label en question.
+Dans la zone de filtrage, il y a un bouton intitulé `Abonnement` : il vous permet d'enregistrer cette recherche dans Mnesios pour être prévenu par mail lorsque les résultats changent ([abonnement à une recherche](following.md#suivre-des-recherches)). Cette fonctionnalité est très pratique quand vous vous intéressez à un sujet et souhaitez être au courant des modifications, par exemple quand quelqu'un ajoute une carte avec le label en question.
 
 Vous configurez l'envoi de mails par Mnesios dans la [page de gestion de votre compte](account.md).
 
-À ne pas confondre avec [l'abonnement à des cartes](following.md), qui vous permet de suivre les modifications de ces cartes.
+À ne pas confondre avec [l'abonnement à des cartes](following.md#suivre-des-cartes), qui vous permet de suivre les modifications de ces cartes.
