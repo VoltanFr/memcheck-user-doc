@@ -5,7 +5,7 @@ nav_order: 1
 
 # Mnesios
 
-Mnesios ([https://www.mnesios.com/](https://www.Mnesios.com/)&nbsp;🐘) est un logiciel gratuit d'auto-apprentissage, qui vous aide à apprendre par cœur ce que vous voulez, comme le vocabulaire d'une langue étrangère, des capitales, des dates importantes, des formules mathématiques, etc.
+Mnesios ([https://www.mnesios.com/](https://www.Mnesios.com/)<i class="intextlogo"></i>) est un logiciel gratuit d'auto-apprentissage, qui vous aide à apprendre par cœur ce que vous voulez, comme le vocabulaire d'une langue étrangère, des capitales, des dates importantes, des formules mathématiques, etc.
 
 Mnesios est basé sur le principe des cartes d'apprentissage : la face avant d'une carte indique une question, et la face arrière contient la réponse. Un apprentissage consiste à regarder la question, formuler pour soi-même une réponse, regarder la réponse, et décider si on avait bon. Et bien sûr Mnesios gère pour vous les intervalles entre les vérifications de connaissances, de façon croissante au fur et à mesure des répétitions.
 
@@ -13,7 +13,7 @@ Wikipédia a une [page dédiée aux cartes d'apprentissage](https://fr.wikipedia
 
 ## Nouvel utilisateur : démarrage rapide
 
-1. Créez un [compte utilisateur](account.md) en suivant le lien de la page d'accueil ou en cliquant [ici](https://www.mnesios.com/Identity/Account/Register)&nbsp;🐘.
+1. Créez un [compte utilisateur](account.md) en suivant le lien de la page d'accueil ou en cliquant [ici](https://www.mnesios.com/Identity/Account/Register)<i class="intextlogo2"></i>.
 1. Ouvrez la [page de recherche de cartes](search.md) (menu `Cartes`/`Parcourir`).
 1. Choisissez des critères de sélection, par exemple un [label](tags.md) ou une [évaluation moyenne](rating.md).
 1. Lancez la recherche avec le bouton `Exécuter`.
