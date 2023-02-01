@@ -13,13 +13,13 @@ Wikipédia a une [page dédiée aux cartes d'apprentissage](https://fr.wikipedia
 
 ## Nouvel utilisateur : démarrage rapide
 
-1. Créez un [compte utilisateur](account.md) en suivant le lien de la page d'accueil ou en cliquant [ici](https://www.mnesios.com/Identity/Account/Register)<i class="intextlogo2"></i>.
+1. Créez un [compte utilisateur](account.md) en suivant le lien de la page d'accueil ou en cliquant [ici](https://www.mnesios.com/Identity/Account/Register)<i class="intextlogo"></i>.
 1. Ouvrez la [page de recherche de cartes](search.md) (menu `Cartes`/`Parcourir`).
 1. Choisissez des critères de sélection, par exemple un [label](tags.md) ou une [évaluation moyenne](rating.md).
 1. Lancez la recherche avec le bouton `Exécuter`.
 1. Sélectionnez les cartes qui vous intéressent en cochant leurs cases.
 1. Ajoutez ces cartes à votre [paquet](deck.md) en utilisant le bouton <i class="fas fa-inbox"></i> et `Ajouter à votre paquet`.
-1. Revenez à la [page de démarrage](https://www.Mnesios.com/)&nbsp;🐘 (en cliquant sur le nom _Mnesios_, en haut).
+1. Revenez à la [page de démarrage](https://www.Mnesios.com/)<i class="intextlogo"></i> (en cliquant sur le nom _Mnesios_, en haut).
 1. Dans la page de démarrage, cliquez sur le lien des cartes non apprises : vous arrivez dans [l'apprentissage](learn.md).
 1. Carte par carte, testez vos connaissances. Quand vous connaissez une réponse, la question ne vous sera plus posée avant deux jours (et cet intervalle augmentera dans les révisions suivantes). Quand vous ne connaissez pas la réponse, la carte est remise sous le tas des cartes non apprises.
 
@@ -42,7 +42,7 @@ Lorsque vous [apprenez](learn.md) une carte, si vous indiquez que vous connaissi
 
 Chaque tas a sa période d'expiration, dont la formule est deux élevé à la puissance le numéro du tas (2<sup>tas</sup>). Ainsi, une carte qui est dans le tas numéro un vous sera soumise à nouveau deux jours après qu'elle y soit arrivée. Dans le tas numéro deux, cet intervalle est de quatre jours, etc. Une carte qui est dans le tas numéro 10 ne vous sera présentée à nouveau qu'au bout de 2 ans et 9 mois !
 
-Un aspect majeur de l'auto-apprentissage est que **vous** indiquez si vous connaissiez la réponse, à votre guise. Par exemple, si une fiche de la catégorie `Science physique`{:.mnesiostag} vous demande [la densité de l'or](https://www.Mnesios.com/Authoring?CardId=534b3214-5880-47a0-d8f0-08d7eba1e1a5)&nbsp;🐘, c'est vous qui validez ou non votre réponse selon la précision que vous souhaitez avoir : vous pouvez considérer que "environ 20" est une réponse satisfaisante, ou au contraire exiger de vous-même une précision au dixième.
+Un aspect majeur de l'auto-apprentissage est que **vous** indiquez si vous connaissiez la réponse, à votre guise. Par exemple, si une fiche de la catégorie `Science physique`{:.mnesiostag} vous demande [la densité de l'or](https://www.Mnesios.com/Authoring?CardId=534b3214-5880-47a0-d8f0-08d7eba1e1a5)<i class="intextlogo"></i>, c'est vous qui validez ou non votre réponse selon la précision que vous souhaitez avoir : vous pouvez considérer que "environ 20" est une réponse satisfaisante, ou au contraire exiger de vous-même une précision au dixième.
 
 ## Documentation
 
