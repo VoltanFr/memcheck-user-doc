@@ -5,7 +5,7 @@ permalink: /authoring.html
 
 # Créer ou modifier des cartes
 
-La création de cartes ou la modification d'une carte existante se font dans la [page dédiée de Mnesios](https://www.mnesios.com/Authoring/)&nbsp;🐘.
+La création de cartes ou la modification d'une carte existante se font dans la [page dédiée de Mnesios](https://www.mnesios.com/Authoring/)<i class="intextlogo"></i>.
 
 ## Les faces
 
@@ -52,7 +52,7 @@ Pour l'instant toutes les cartes sont en français, et la [recherche](search.md)
 
 ## Les labels
 
-C'est ici que vous pouvez catégoriser les cartes en leur attachant un ou des [labels](tags.md). C'est un critère majeur de recherche. En cas de doute sur l'utilisation d'un label, vous pouvez aller voir sa description dans la [liste des labels](https://www.mnesios.com/Tags/)&nbsp;🐘.
+C'est ici que vous pouvez catégoriser les cartes en leur attachant un ou des [labels](tags.md). C'est un critère majeur de recherche. En cas de doute sur l'utilisation d'un label, vous pouvez aller voir sa description dans la [liste des labels](https://www.mnesios.com/Tags/)<i class="intextlogo"></i>.
 
 Vous pouvez en particulier labelliser les cartes strictement privées avec [le label Perso](tags.md#le-label-perso).
 
@@ -72,7 +72,7 @@ La case à cocher _Ajouter à votre paquet_ a pour effet, comme son nom l'indiqu
 
 ## Modification
 
-Vous pouvez ouvrir une carte Mnesios pour modification depuis deux endroits : la [page d'apprentissage](learn.md) et la [page de recherche](search.md). Cette même page de création de carte est alors ouverte mais en mode édition ([exemple](https://www.mnesios.com/Authoring?CardId=a862f9b0-4ed9-4be0-d267-08d7ebb03fda)&nbsp;🐘), et trois fonctionnalités supplémentaires vous y sont offertes...
+Vous pouvez ouvrir une carte Mnesios pour modification depuis deux endroits : la [page d'apprentissage](learn.md) et la [page de recherche](search.md). Cette même page de création de carte est alors ouverte mais en mode édition ([exemple](https://www.mnesios.com/Authoring?CardId=a862f9b0-4ed9-4be0-d267-08d7ebb03fda)<i class="intextlogo"></i>), et trois fonctionnalités supplémentaires vous y sont offertes...
 
 - **Le bouton 🛈** vous donne accès à des informations générales sur la carte.
 - **Le bouton <i class="fas fa-history"></i>** permet d'ouvrir l'historique de la carte, et de voir des informations sur les versions. En effet, dans Mnesios toutes les opérations sur les cartes sont historisées, ce qui permet de tracer les évolutions et si nécessaire de revenir en arrière.
@@ -91,7 +91,7 @@ Quelques conseils...
   - Plutôt que `Où la Seine prend-elle sa source ?`, préférez `Dans quel département la Seine prend-elle sa source ?`.
   - Même si votre carte a le label `Vocabulaire anglais`{:.mnesiostag}, rédigez la question : plutôt que `Rouge ?`, préférez `Anglais pour Rouge ?`.
 - La réponse devrait être précisément ce qu'on attend par rapport à la question, et pas plus. En revanche c'est une bonne idée de donner des informations supplémentaires dans la face dédiée. Par exemple...
-  - À la question [En quelle année Napoléon Bonaparte fut-il couronné empereur ?](https://www.mnesios.com/Authoring?CardId=437bb2d9-37ba-43b2-dc93-08d7eba1e1a5), la réponse devrait être simplement `1804` (ne pas donner une date précise si elle n'est pas demandée).
+  - À la question [En quelle année Napoléon Bonaparte fut-il couronné empereur ?](https://www.mnesios.com/Authoring?CardId=437bb2d9-37ba-43b2-dc93-08d7eba1e1a5)<i class="intextlogo"></i>, la réponse devrait être simplement `1804` (ne pas donner une date précise si elle n'est pas demandée).
 - Écrivez correctement (pas de fautes d'orthographe, pas d'utilisation abusive de majuscules, paragraphes bien dimensionnés), sans tomber dans l'excès d'un style trop soutenu.
 - Utilisez à bon escient le [formatage Markdown](#format-du-texte).
 - [Ne plagiez pas !](rules.md) Par exemple, beaucoup de cartes ont des informations supplémentaires inspirées de Wikipédia : il s'agit alors de savoir simplifier, raccourcir.
@@ -109,7 +109,7 @@ Critères de qualité...
 Images
 Si une image apporte une information directe sur la réponse, elle devrait être attachée à la face arrière de la carte. Si l'image apporte une information complémentaire, elle devrait plutôt être attachée à la face Informations supplémentaires.
 
-Par exemple, prenons [la carte qui a pour question `Qu'ont de particulier les diagonales d'un parallélogramme ?`](https://www.mnesios.com/Authoring?CardId=9759c1db-c3d1-4468-e341-08d7eba1e1a5)&nbsp;🐘 et pour réponse `Elles se coupent en leurs milieux`. Si l'image prouve cette propriété avec des codages qui rendent la figure parlante, elle devrait être attachée à la face arrière.
+Par exemple, prenons [la carte qui a pour question `Qu'ont de particulier les diagonales d'un parallélogramme ?`](https://www.mnesios.com/Authoring?CardId=9759c1db-c3d1-4468-e341-08d7eba1e1a5)<i class="intextlogo"></i> et pour réponse `Elles se coupent en leurs milieux`. Si l'image prouve cette propriété avec des codages qui rendent la figure parlante, elle devrait être attachée à la face arrière.
 
 Mon habitude est de commencer par créer une carte en privé, puis la rendre publique après quelques jours de recul qui me permettent de la faire évoluer.
 

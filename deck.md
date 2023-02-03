@@ -7,7 +7,7 @@ permalink: /deck.html
 
 Dans Mnesios, un paquet de cartes est une sélection de cartes d'apprentissage qu'un utilisateur a choisies pour les apprendre (l'ajout au paquet se fait dans la [page de parcours des cartes](search.md)).
 
-Un paquet a été créé automatiquement pour vous lors de la création de votre compte. Vous pouvez changer son nom, mais c'est généralement peu utile. Vous pouvez visualiser votre paquet dans [la page dédiée de Mnesios](https://www.mnesios.com/Decks)&nbsp;🐘, à laquelle vous pouvez accéder par le menu `Paquets/Parcourir`.
+Un paquet a été créé automatiquement pour vous lors de la création de votre compte. Vous pouvez changer son nom, mais c'est généralement peu utile. Vous pouvez visualiser votre paquet dans [la page dédiée de Mnesios](https://www.mnesios.com/Decks)<i class="intextlogo"></i>, à laquelle vous pouvez accéder par le menu `Paquets/Parcourir`.
 
 ## Les tas
 

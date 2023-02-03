@@ -6,7 +6,7 @@ permalink: /search.html
 
 # La page de parcours des cartes
 
-La [page de parcours des cartes](https://www.mnesios.com/Search/Index)&nbsp;🐘, aussi appelée _Page de recherche de cartes_, vous permet de parcourir la base de données des cartes. C'est une page majeure, puisque c'est ici que vous pourrez trouver les cartes qui vous intéressent, que ce soit parmi les cartes publiques ou parmi vos cartes privées.
+La [page de parcours des cartes](https://www.mnesios.com/Search/Index)<i class="intextlogo"></i>, aussi appelée _Page de recherche de cartes_, vous permet de parcourir la base de données des cartes. C'est une page majeure, puisque c'est ici que vous pourrez trouver les cartes qui vous intéressent, que ce soit parmi les cartes publiques ou parmi vos cartes privées.
 
 Pour l'utiliser :
 

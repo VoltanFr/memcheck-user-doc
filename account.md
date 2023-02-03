@@ -7,7 +7,7 @@ permalink: /account.html
 
 ## Profil
 
-Vous pouvez configurer votre compte utilisateur par la [page dédiée de Mnesios](https://www.mnesios.com/Identity/Account/Manage)&nbsp;🐘.
+Vous pouvez configurer votre compte utilisateur par la [page dédiée de Mnesios](https://www.mnesios.com/Identity/Account/Manage)<i class="intextlogo"></i>.
 
 - Votre **adresse électronique** est une information strictement privée, et n'est jamais affichée ou accessible pour quelqu'un d'autre que vous, à part les administrateurs de Mnesios. L'application Mnesios l'utilise pour vous contacter si vous vous êtes [abonné pour recevoir des notifications](following.md).
 - Votre **nom d'utilisateur** est une information publique, visible par tous. Choisi au moment de votre inscription, vous ne pouvez pas le changer par la suite (c'est une [amélioration envisagée](https://github.com/VoltanFr/memcheck/issues/381)&nbsp;<i class="fas fa-external-link-alt"></i>). Nous vous recommandons que ce soit un pseudonyme, et qu'il ne contienne pas d'information personnelle telle que votre nom de famille.
@@ -33,4 +33,4 @@ Voir la [page dédiée](delete-personal-data.md).
 
 ## Abonnements
 
-La [page de gestion des abonnements](https://www.mnesios.com/Identity/Account/Manage/Subscriptions)&nbsp;🐘 vous permet de lister, modifier et supprimer vos [abonnements](following.md). Actuellement il ne s'agit que des _recherches_ suivies.
+La [page de gestion des abonnements](https://www.mnesios.com/Identity/Account/Manage/Subscriptions)<i class="intextlogo"></i> vous permet de lister, modifier et supprimer vos [abonnements](following.md). Actuellement il ne s'agit que des _recherches_ suivies.

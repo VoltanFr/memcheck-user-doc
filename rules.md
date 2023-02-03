@@ -44,7 +44,7 @@ Mnesios n'utilise aucun cookie commercial.
 
 ## Envoi de courriers électroniques
 
-Mnesios vous enverra des messages automatiques si vous choisissez de [vous abonner](following.md) pour en recevoir et vous cochez la case _Notifications par mail_ dans votre [compte utilisteur](https://www.mnesios.com/Identity/Account/Manage)&nbsp;🐘. Vous pouvez aussi y régler l'intervalle minimum entre deux mails automatiques.
+Mnesios vous enverra des messages automatiques si vous choisissez de [vous abonner](following.md) pour en recevoir et vous cochez la case _Notifications par mail_ dans votre [compte utilisteur](https://www.mnesios.com/Identity/Account/Manage)<i class="intextlogo"></i>. Vous pouvez aussi y régler l'intervalle minimum entre deux mails automatiques.
 
 Les administrateurs de Mnesios pourraient aussi vous contacter exceptionnellement, par exemple pour un problème technique avec votre compte, une enquête sur le service, un problème de contenu d'une carte, un changement important, etc.
 
@@ -79,7 +79,7 @@ Ces règles s'appliquent à tout le contenu, y compris [les images](media.md) : 
 
 ## Mentions légales additionnelles
 
-Mnesios ([https://www.mnesios.com/](https://www.Mnesios.com/)&nbsp;🐘) est un site communautaire, sans but lucratif, ouvert à tous et sans la moindre publicité, donc l'objectif est le partage de cartes d'apprentissages.
+Mnesios ([https://www.mnesios.com/](https://www.Mnesios.com/)<i class="intextlogo"></i>) est un site communautaire, sans but lucratif, ouvert à tous et sans la moindre publicité, donc l'objectif est le partage de cartes d'apprentissages.
 
 Une adresse électronique de contact est disponible sur [la page d'accueil de cette documentation](index.md#règles-contact).
 

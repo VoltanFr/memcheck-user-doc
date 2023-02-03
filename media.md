@@ -15,15 +15,15 @@ Voir la page [Créer ou modifier des cartes](authoring.md#images).
 
 ## Parcourir la liste des images
 
-Vous pouvez accéder à la page de listing par le menu `Media/Parcourir les images` (qui vous amène sur la page [Liste des images](https://www.mnesios.com/Media/Index)&nbsp;🐘).
+Vous pouvez accéder à la page de listing par le menu `Media/Parcourir les images` (qui vous amène sur la page [Liste des images](https://www.mnesios.com/Media/Index)<i class="intextlogo"></i>).
 
 Le filtre de recherche vous permet de cibler pour trouver l'image voulue.
 
 ## Ajouter une image dans Mnesios 
 
-L'ajout d'une image dans la base de données de Mnesios se passe dans [la page Ajouter une image](https://www.mnesios.com/Media/Upload)&nbsp;🐘 (accessible par le menu _Médias_).
+L'ajout d'une image dans la base de données de Mnesios se passe dans [la page Ajouter une image](https://www.mnesios.com/Media/Upload)<i class="intextlogo"></i> (accessible par le menu _Médias_).
 
-Conseil : dans le champ `Description`, mettez tous les mots-clés qui pourront faciliter la recherche, mais pas plus. Par exemple, la description de l'image [Appareil digestif simplifié](https://www.mnesios.com/Media/Index/?ImageId=400f50f8-065c-45be-3697-08d94a841337)&nbsp;🐘 contient tous les mots qui figurent sur l'image : si quelqu'un cherche une image pour illustrer une carte sur l'estomac, il la trouvera facilement.
+Conseil : dans le champ `Description`, mettez tous les mots-clés qui pourront faciliter la recherche, mais pas plus. Par exemple, la description de l'image [Appareil digestif simplifié](https://www.mnesios.com/Media/Index/?ImageId=400f50f8-065c-45be-3697-08d94a841337)<i class="intextlogo"></i> contient tous les mots qui figurent sur l'image : si quelqu'un cherche une image pour illustrer une carte sur l'estomac, il la trouvera facilement.
 
 Attention...
 

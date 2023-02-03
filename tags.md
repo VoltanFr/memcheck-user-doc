@@ -7,7 +7,7 @@ permalink: /tags.html
 
 Dans Mnesios, les labels permettent de catégoriser les cartes. Une carte peut avoir plusieurs labels, un seul, ou aucun (ce qui est déconseillé pour les [cartes publiques](authoring.md#visibilité-des-cartes)).
 
-Vous pouvez les parcourir dans [la page Mnesios liste des labels](https://www.mnesios.com/Tags/)&nbsp;🐘, accessible par le menu `Labels/Parcourir`.
+Vous pouvez les parcourir dans [la page Mnesios liste des labels](https://www.mnesios.com/Tags/)<i class="intextlogo"></i>, accessible par le menu `Labels/Parcourir`.
 
 La colonne _Cartes_ vous indique le nombre de cartes publiques qui ont ce label. Ainsi, si vous ou d'autres utilisateurs avez des cartes privées avec ce label, elle ne sont pas comptabilisées.
 

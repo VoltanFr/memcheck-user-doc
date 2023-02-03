@@ -5,7 +5,7 @@ permalink: /learn.html
 
 # L'apprentissage
 
-La [page d'apprentissage](https://www.mnesios.com/Learn/)&nbsp;🐘 est l'endroit où vous allez travailler votre mémoire. Elle peut être utilisée dans deux modes...
+La [page d'apprentissage](https://www.mnesios.com/Learn/)<i class="intextlogo"></i> est l'endroit où vous allez travailler votre mémoire. Elle peut être utilisée dans deux modes...
 
 - `Apprentissage` : vous apprenez les cartes dites _inconnues_, qui sont dans le [tas des cartes non apprises](deck.md#les-tas) (pas encore apprises ou oubliées).
 - `Révision` : vous révisez les cartes _expirées_, qui sont dans les autres tas (voir la documentation sur [l'algorithme de montée dans les tas](heaping.md)).
