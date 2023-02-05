@@ -12,7 +12,7 @@ Actuellement, un seul algorithme vous est proposé. D'autres sont envisagés pou
 
 ## L'algorithme par défaut (quadratique)
 
-Dans cet algorithme, le délai d'expiration dans le tas t est nᵗ (`n puissance t`).
+Dans cet algorithme, le délai d'expiration dans le tas _t_ est _nᵗ_ (_n puissance t_).
 
 Exemples
 
