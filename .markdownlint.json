@@ -1,5 +1,5 @@
 {
     "MD013": { "line_length" : 2000 },
     "MD025": { "front_matter_title": "" },
-    "MD033": { "allowed_elements": [ "i", "sup", "br" ] }
+    "MD033": { "allowed_elements": [ "i", "sup", "br", "small" ] }
 }

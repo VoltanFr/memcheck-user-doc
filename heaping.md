@@ -8,6 +8,9 @@ permalink: /heaping.html
 
 Dans la [page d'apprentissage](learn.md), lorsque vous indiquez que vous connaissez une réponse en cliquant sur le bouton vert `Je le savais`, la carte monte dans le tas de rang supérieur. Elle vous sera présentée à nouveau en révision après un délai : on dira à ce moment-là que la carte a _expiré_.
 
+![Progression dans les tas](assets/images/Leitner_système_alternatif.svg)  
+<small>Source de l'image: [Wikimedia Commons](https://commons.m.wikimedia.org/wiki/File:Leitner_syst%C3%A8me_alternatif.svg)&nbsp;<i class="fas fa-external-link-alt"></i>.</small>
+
 Actuellement, un seul algorithme vous est proposé. D'autres sont envisagés pour plus tard (voir [Offer other heaping algorithms](https://github.com/VoltanFr/memcheck/issues/349)&nbsp;<i class="fas fa-external-link-alt"></i>).
 
 ## L'algorithme par défaut (quadratique)
