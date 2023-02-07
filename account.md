@@ -17,6 +17,8 @@ Vous pouvez configurer votre compte utilisateur par la [page dédiée de Mnesios
 
 ## Vos données
 
+Vous disposez d'un droit d'accès, de modification, de rectification et de suppression des données qui vous concernent. Contactez les administrateurs si vous voulez en savoir plus (adresse électronique en bas de la [page principale](index.md)).
+
 Voir aussi [la page Règles d'utilisation, droit d'auteur](rules.md).
 
 ### Mot de passe
