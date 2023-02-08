@@ -101,7 +101,7 @@ Quelques conseils...
 
 Critères de qualité...
 
-- Face avant : la question doit être claire et précise, sans ambiguïté. Exemple : 
+- Face avant : la question doit être claire et précise, sans ambiguïté.
 - Face arrière : elle apporte une réponse précise à la question de la face avant. C'est l'information que l'utilisateur devrait connaître pour pouvoir considérer qu'il a la bonne réponse. La face arrière ne dervait pas donner plus d'information que cette réponse : on utilise la face des Informations supplémentaires pour ça.
 - Face des informations supplémentaires : elle doit être équilibrée entre donner de bonnes informations, utiles, sans aller trop loin.
 - La face des références : il s'agit de donner des sources, des preuves, des informations de la carte. Il s'agit presque toujours de liens vers des pages internet, Wikipédia par exemple. Bien sûr il est souhaitable que les références elles-mêmes soient des sources de qualité.
