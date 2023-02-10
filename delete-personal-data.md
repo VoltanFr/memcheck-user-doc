@@ -5,7 +5,7 @@ permalink: /delete-personal-data.html
 
 # Suppression de compte
 
-La suppression de votre compte est une opération irréversible : **☠ vous n'aurez aucun moyen de récupérer les données effacées ☠**.
+La suppression de [votre compte](account.md) est une opération irréversible : **☠ vous n'aurez aucun moyen de récupérer les données effacées ☠**.
 
 En pratique...
 
