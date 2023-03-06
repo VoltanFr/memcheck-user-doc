@@ -7,7 +7,7 @@ nav_order: 1
 
 Mnesios ([https://www.mnesios.com/](https://www.Mnesios.com/)<i class="intextlogo"></i>) est un logiciel gratuit d'auto-apprentissage, qui vous aide à apprendre par cœur ce que vous voulez, comme le vocabulaire d'une langue étrangère, des capitales, des dates importantes, des formules mathématiques, etc.
 
-Mnesios est basé sur le principe des cartes d'apprentissage : la face avant d'une carte indique une question, et la face arrière contient la réponse. Un apprentissage consiste à regarder la question, formuler pour soi-même une réponse, regarder la réponse, et décider si on avait bon. Et bien sûr Mnesios gère pour vous les intervalles entre les vérifications de connaissances, de façon croissante au fur et à mesure des répétitions.
+Mnesios est basé sur le principe des cartes d'apprentissage : la face avant d'une carte indique une question, et la face arrière contient la réponse. Un apprentissage consiste à regarder la question, formuler pour soi-même une réponse, regarder la réponse, et décider si on avait bon. Et bien sûr Mnesios [gère pour vous](heaping.md) les intervalles entre les vérifications de connaissances, de façon croissante au fur et à mesure des répétitions.
 
 Wikipédia a une [page dédiée aux cartes d'apprentissage](https://fr.wikipedia.org/wiki/Carte_m%C3%A9moire_(apprentissage))&nbsp;<i class="fas fa-external-link-alt"></i>.
 
@@ -40,7 +40,7 @@ Lorsque vous ajoutez une carte dans votre paquet, elle est dans le tas nommé _c
 
 Lorsque vous [apprenez](learn.md) une carte, si vous indiquez que vous connaissiez la réponse, la carte est déplacée dans le tas supérieur, et si vous aviez faux, la carte est remise dans le tas des non apprises.
 
-Chaque tas a sa période d'expiration, dont la formule est deux élevé à la puissance le numéro du tas (2<sup>tas</sup>). Ainsi, une carte qui est dans le tas numéro un vous sera soumise à nouveau deux jours après qu'elle y soit arrivée. Dans le tas numéro deux, cet intervalle est de quatre jours, etc. Une carte qui est dans le tas numéro 10 ne vous sera présentée à nouveau qu'au bout de 2 ans et 9 mois !
+[Chaque tas a sa période d'expiration](heaping.md), dont la formule est deux élevé à la puissance le numéro du tas (2<sup>tas</sup>). Ainsi, une carte qui est dans le tas numéro un vous sera soumise à nouveau deux jours après qu'elle y soit arrivée. Dans le tas numéro deux, cet intervalle est de quatre jours, etc. Une carte qui est dans le tas numéro 10 ne vous sera présentée à nouveau qu'au bout de 2 ans et 9 mois !
 
 Un aspect majeur de l'auto-apprentissage est que **vous** indiquez si vous connaissiez la réponse, à votre guise. Par exemple, si une fiche de la catégorie `Science physique`{:.mnesiostag} vous demande [la densité de l'or](https://www.Mnesios.com/Authoring?CardId=534b3214-5880-47a0-d8f0-08d7eba1e1a5)<i class="intextlogo"></i>, c'est vous qui validez ou non votre réponse selon la précision que vous souhaitez avoir : vous pouvez considérer que "environ 20" est une réponse satisfaisante, ou au contraire exiger de vous-même une précision au dixième.
 
