@@ -77,6 +77,8 @@ En utilisant Mnesios, vous acceptez l'autorité des administrateurs. Ces dernier
 
 Ces règles s'appliquent à tout le contenu, y compris [les images](media.md) : lorsque vous en ajoutez, vous devez préciser leur origine, et leur licence doit être vérifiable (le plus souvent [licence Creative Commons](https://creativecommons.org/licences)&nbsp;<i class="fas fa-external-link-alt"></i>). Dans le cas de l'ajout d'une image qui est un travail personnel, vous devez préciser dans le champ `Source` que vous acceptez la [licence Creative Commons Attribution 4.0 International - CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.fr)&nbsp;<i class="fas fa-external-link-alt"></i>.
 
+Si vous voyez un problème de respect de ces règles, n'hésitez pas à le signaler aux administrateurs par courrier électronique (adresse électronique en bas de la [page principale](index.md)).
+
 ## Mentions légales additionnelles
 
 Mnesios ([https://www.mnesios.com/](https://www.Mnesios.com/)<i class="intextlogo"></i>) est un site communautaire, sans but lucratif, ouvert à tous et sans la moindre publicité, donc l'objectif est le partage de cartes d'apprentissages.
