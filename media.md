@@ -19,7 +19,7 @@ Vous pouvez accéder à la page de listing par le menu `Media/Parcourir les imag
 
 Le filtre de recherche vous permet de cibler pour trouver l'image voulue.
 
-## Ajouter une image dans Mnesios 
+## Ajouter une image dans Mnesios
 
 L'ajout d'une image dans la base de données de Mnesios se passe dans [la page Ajouter une image](https://www.mnesios.com/Media/Upload)<i class="intextlogo"></i> (accessible par le menu _Médias_).
 
