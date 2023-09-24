@@ -1,6 +1,6 @@
 ---
 title: La gestion des tas
-nav_order: 10
+nav_order: 11
 permalink: /heaping.html
 ---
 
